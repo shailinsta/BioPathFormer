@@ -24,6 +24,7 @@ Unlike conventional pharmacogenomic prediction methods that primarily optimize p
 
 - **S.M**
 - **S.T**
+- **A.A**
 ---
 
 ---
