@@ -216,13 +216,13 @@ Executing the notebook produces publication-quality outputs, including
 Clone the repository
 
 ```bash
-git clone https://github.com/shailinsta/PDAC.git
+https://github.com/shailinsta/BioPathFormer.git
 ```
 
 Navigate to the project directory
 
 ```bash
-cd PDAC
+cd BioPathFormer
 ```
 
 Install the required Python packages
@@ -280,31 +280,6 @@ To reproduce the experimental results reported in the manuscript:
 5. Execute the notebook `BioPathFormer_PDAC_Pipeline.ipynb` from beginning to end.
 
 The notebook reproduces the complete computational pipeline described in the manuscript, including preprocessing, pathway-aware graph learning, model training, evaluation, explainability analysis, Bayesian uncertainty modeling, biomarker prioritization, and biological pathway enrichment.
-
----
-
-# Citation
-
-If you use BioPathFormer or any part of this repository in your research, please cite the associated publication.
-
-```bibtex
-@article{BioPathFormer2026,
-  title   = {Pathway-Aware Graph Learning and Bayesian Uncertainty Modeling for Interpretable Biomarker Discovery and Drug Response Prediction in Pancreatic Ductal Adenocarcinoma},
-  author  = {Mishra, Shailendra and Tahzib, Shams and Almutiri, Wejdan Ali},
-  journal = {Under Review},
-  year    = {2026}
-}
-```
-
-The citation will be updated with the journal name, volume, pages, and DOI after publication.
-
----
-
-# License
-
-This project is distributed under the **MIT License**.
-
-See the `LICENSE` file for additional details.
 
 ---
 
