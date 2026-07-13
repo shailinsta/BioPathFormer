@@ -2,13 +2,6 @@
 
 ## Pathway-Aware Graph Learning and Bayesian Uncertainty Modeling for Interpretable Biomarker Discovery and Drug Response Prediction in Pancreatic Ductal Adenocarcinoma
 
-<div align="center">
-[![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-Latest-orange.svg)](https://pytorch-geometric.readthedocs.io/)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg)](https://huggingface.co/datasets/ShamsTahzib/PDAC)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-
-</div>
-
 ---
 
 ## Overview
