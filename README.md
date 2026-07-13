@@ -22,25 +22,9 @@ Unlike conventional pharmacogenomic prediction methods that primarily optimize p
 
 **Authors**
 
-- **Shailendra Mishra**
-- **Shams Tahzib**
-- **Wejdan Ali Almutiri**
-
-**Status**
-
-> Under Review
-
+- **S.M**
+- **S.T**
 ---
-
-## Framework
-
-<p align="center">
-
-**Figure 1. Proposed BioPathFormer Framework**
-
-*(Replace this placeholder with Figure 1 from the manuscript after publication.)*
-
-</p>
 
 ---
 
