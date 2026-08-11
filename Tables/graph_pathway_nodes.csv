@@ -1,0 +1,2070 @@
+Pathway,Source,PathwayID,GlobalID
+2-LTR Circle Formation R-HSA-164843,Reactome,0,4942
+GAG Synthesis Requires Tetrasaccharide Linker Sequence R-HSA-1971475,Reactome,1,4943
+ABC Transporter Disorders R-HSA-5619084,Reactome,2,4944
+ABC Transporters In Lipid Homeostasis R-HSA-1369062,Reactome,3,4945
+ABC-family Proteins Mediated Transport R-HSA-382556,Reactome,4,4946
+ADORA2B Mediated Anti-Inflammatory Cytokine Production R-HSA-9660821,Reactome,5,4947
+ADP Signaling Thru P2Y Purinoceptor 1 R-HSA-418592,Reactome,6,4948
+ADP Signaling Thru P2Y Purinoceptor 12 R-HSA-392170,Reactome,7,4949
+AKT Phosphorylates Targets In Cytosol R-HSA-198323,Reactome,8,4950
+AKT Phosphorylates Targets In Nucleus R-HSA-198693,Reactome,9,4951
+ALK Mutants Bind TKIs R-HSA-9700645,Reactome,10,4952
+AMPK Inhibits chREBP Transcriptional Activity R-HSA-163680,Reactome,11,4953
+APC Truncation Mutants Have Impaired AXIN Binding R-HSA-5467337,Reactome,12,4954
+APC-Cdc20 Mediated Degradation Of Nek2A R-HSA-179409,Reactome,13,4955
+APC/C-mediated Degradation Of Cell Cycle Proteins R-HSA-174143,Reactome,14,4956
+APC/C:Cdc20 Mediated Degradation Of Cyclin B R-HSA-174048,Reactome,15,4957
+APC/C:Cdc20 Mediated Degradation Of Securin R-HSA-174154,Reactome,16,4958
+APC/C:Cdc20 Mediated Degradation Of Mitotic Proteins R-HSA-176409,Reactome,17,4959
+APC/C:Cdh1 Mediated Degradation Of Cdc20 And APC/C:Cdh1 Targets In Late Mitosis/Early G1 R-HSA-174178,Reactome,18,4960
+APC:Cdc20 Mediated Degradation Of Cell Cycle Proteins Before Cycle Checkpoint Satisfied R-HSA-179419,Reactome,19,4961
+APEX1-Independent Resolution Of AP Sites Via Single Nucleotide Replacement Pathway R-HSA-5649702,Reactome,20,4962
+APOBEC3G Mediated Resistance To HIV-1 R-HSA-180689,Reactome,21,4963
+ARMS-mediated Activation R-HSA-170984,Reactome,22,4964
+ATF4 Activates Genes In Response To Endoplasmic Reticulum Stress R-HSA-380994,Reactome,23,4965
+ATF6 (ATF6-alpha) Activates Chaperone Genes R-HSA-381183,Reactome,24,4966
+ATF6 (ATF6-alpha) Activates Chaperones R-HSA-381033,Reactome,25,4967
+AUF1 (hnRNP D0) Binds And Destabilizes mRNA R-HSA-450408,Reactome,26,4968
+AURKA Activation By TPX2 R-HSA-8854518,Reactome,27,4969
+Abacavir ADME R-HSA-2161522,Reactome,28,4970
+Abacavir Metabolism R-HSA-2161541,Reactome,29,4971
+Abacavir Transmembrane Transport R-HSA-2161517,Reactome,30,4972
+Aberrant Regulation Of Mitotic G1/S Transition In Cancer Due To RB1 Defects R-HSA-9659787,Reactome,31,4973
+Aberrant Regulation Of Mitotic Cell Cycle Due To RB1 Defects R-HSA-9687139,Reactome,32,4974
+Aberrant Regulation Of Mitotic Exit In Cancer Due To RB1 Defects R-HSA-9687136,Reactome,33,4975
+Abortive Elongation Of HIV-1 Transcript In Absence Of Tat R-HSA-167242,Reactome,34,4976
+Acetylcholine Neurotransmitter Release Cycle R-HSA-264642,Reactome,35,4977
+Acetylcholine Binding And Downstream Events R-HSA-181431,Reactome,36,4978
+Acetylcholine Inhibits Contraction Of Outer Hair Cells R-HSA-9667769,Reactome,37,4979
+Acetylcholine Regulates Insulin Secretion R-HSA-399997,Reactome,38,4980
+Acrosome Reaction And Sperm:Oocyte Membrane Binding R-HSA-1300645,Reactome,39,4981
+Activated NOTCH1 Transmits Signal To Nucleus R-HSA-2122948,Reactome,40,4982
+Activated NTRK2 Signals Thru CDK5 R-HSA-9032845,Reactome,41,4983
+Activated NTRK2 Signals Thru FRS2 And FRS3 R-HSA-9028731,Reactome,42,4984
+Activated NTRK2 Signals Thru FYN R-HSA-9032500,Reactome,43,4985
+Activated NTRK2 Signals Thru PI3K R-HSA-9028335,Reactome,44,4986
+Activated NTRK2 Signals Thru RAS R-HSA-9026519,Reactome,45,4987
+Activated NTRK3 Signals Thru PI3K R-HSA-9603381,Reactome,46,4988
+Activated NTRK3 Signals Thru RAS R-HSA-9034864,Reactome,47,4989
+Activated PKN1 Stimulates Transcription Of Androgen Receptor Regulated KLK2 And KLK3 R-HSA-5625886,Reactome,48,4990
+Activation Of AMPK Downstream Of NMDARs R-HSA-9619483,Reactome,50,4991
+Activation Of APC/C And APC/C:Cdc20 Mediated Degradation Of Mitotic Proteins R-HSA-176814,Reactome,51,4992
+Activation Of ATR In Response To Replication Stress R-HSA-176187,Reactome,52,4993
+Activation Of BAD And Translocation To Mitochondria R-HSA-111447,Reactome,53,4994
+Activation Of BH3-only Proteins R-HSA-114452,Reactome,54,4995
+Activation Of C3 And C5 R-HSA-174577,Reactome,55,4996
+Activation Of Ca-permeable Kainate Receptor R-HSA-451308,Reactome,56,4997
+Activation Of G Protein Gated Potassium Channels R-HSA-1296041,Reactome,57,4998
+Activation Of GABAB Receptors R-HSA-991365,Reactome,58,4999
+Activation Of HOX Genes During Differentiation R-HSA-5619507,Reactome,59,5000
+Activation Of IRF3/IRF7 Mediated By TBK1/IKK Epsilon R-HSA-936964,Reactome,60,5001
+Activation Of Matrix Metalloproteinases R-HSA-1592389,Reactome,61,5002
+Activation Of NF-kappaB In B Cells R-HSA-1169091,Reactome,62,5003
+"Activation Of NIMA Kinases NEK9, NEK6, NEK7 R-HSA-2980767",Reactome,63,5004
+Activation Of NMDA Receptors And Postsynaptic Events R-HSA-442755,Reactome,64,5005
+Activation Of NOXA And Translocation To Mitochondria R-HSA-111448,Reactome,65,5006
+Activation Of PPARGC1A (PGC-1alpha) By Phosphorylation R-HSA-2151209,Reactome,66,5007
+Activation Of PUMA And Translocation To Mitochondria R-HSA-139915,Reactome,67,5008
+Activation Of RAC1 R-HSA-428540,Reactome,68,5009
+Activation Of RAC1 Downstream Of NMDARs R-HSA-9619229,Reactome,69,5010
+Activation Of SMO R-HSA-5635838,Reactome,70,5011
+Activation Of TRKA Receptors R-HSA-187015,Reactome,71,5012
+Activation Of Caspases Thru Apoptosome-Mediated Cleavage R-HSA-111459,Reactome,72,5013
+Activation Of Gene Expression By SREBF (SREBP) R-HSA-2426168,Reactome,73,5014
+Activation Of Kainate Receptors Upon Glutamate Binding R-HSA-451326,Reactome,74,5015
+Activation Of AP-1 Family Of Transcription Factors R-HSA-450341,Reactome,75,5016
+Activation Of TFAP2 (AP-2) Family Of Transcription Factors R-HSA-8866907,Reactome,76,5017
+"mRNA Activation Upon Binding Of Cap-Binding Complex And eIFs, Subsequent Binding To 43S R-HSA-72662",Reactome,77,5018
+Activation Of Phototransduction Cascade R-HSA-2485179,Reactome,78,5019
+Activation Of Pre-Replicative Complex R-HSA-68962,Reactome,79,5020
+Acyl Chain Remodeling Of CL R-HSA-1482798,Reactome,80,5021
+Acyl Chain Remodelling Of PC R-HSA-1482788,Reactome,82,5022
+Acyl Chain Remodelling Of PE R-HSA-1482839,Reactome,83,5023
+Acyl Chain Remodelling Of PG R-HSA-1482925,Reactome,84,5024
+Acyl Chain Remodelling Of PI R-HSA-1482922,Reactome,85,5025
+Acyl Chain Remodelling Of PS R-HSA-1482801,Reactome,86,5026
+Adaptive Immune System R-HSA-1280218,Reactome,87,5027
+Adenylate Cyclase Activating Pathway R-HSA-170660,Reactome,88,5028
+Adenylate Cyclase Inhibitory Pathway R-HSA-170670,Reactome,89,5029
+Adherens Junctions Interactions R-HSA-418990,Reactome,90,5030
+"Adrenaline,noradrenaline Inhibits Insulin Secretion R-HSA-400042",Reactome,91,5031
+Adrenoceptors R-HSA-390696,Reactome,92,5032
+Advanced Glycosylation Endproduct Receptor Signaling R-HSA-879415,Reactome,93,5033
+Aflatoxin Activation And Detoxification R-HSA-5423646,Reactome,94,5034
+Aggrephagy R-HSA-9646399,Reactome,95,5035
+Alpha-defensins R-HSA-1462054,Reactome,96,5036
+Alpha-oxidation Of Phytanate R-HSA-389599,Reactome,97,5037
+Alpha-protein Kinase 1 Signaling Pathway R-HSA-9645460,Reactome,98,5038
+Amine Ligand-Binding Receptors R-HSA-375280,Reactome,99,5039
+Amino Acid Transport Across Plasma Membrane R-HSA-352230,Reactome,101,5040
+Amino Acids Regulate mTORC1 R-HSA-9639288,Reactome,102,5041
+Unattached Kinetochores Signal Amplification Via A MAD2 Inhibitory Signal R-HSA-141444,Reactome,103,5042
+Amyloid Fiber Formation R-HSA-977225,Reactome,104,5043
+Anchoring Fibril Formation R-HSA-2214320,Reactome,105,5044
+Anchoring Of Basal Body To Plasma Membrane R-HSA-5620912,Reactome,106,5045
+Androgen Biosynthesis R-HSA-193048,Reactome,107,5046
+Anti-inflammatory Response Favoring Leishmania Infection R-HSA-9662851,Reactome,108,5047
+"Antigen Presentation: Folding, Assembly, Peptide Loading Of Class I MHC R-HSA-983170",Reactome,109,5048
+Antigen Activates B Cell Receptor Leading To Second Messenger Generation R-HSA-983695,Reactome,110,5049
+Antigen processing-Cross Presentation R-HSA-1236975,Reactome,111,5050
+Antigen Processing: Ubiquitination And Proteasome Degradation R-HSA-983168,Reactome,112,5051
+Antimicrobial Peptides R-HSA-6803157,Reactome,113,5052
+Antiviral Mechanism By IFN-stimulated Genes R-HSA-1169410,Reactome,114,5053
+Apoptosis R-HSA-109581,Reactome,115,5054
+Apoptosis Induced DNA Fragmentation R-HSA-140342,Reactome,116,5055
+Apoptotic Cleavage Of Cell Adhesion Proteins R-HSA-351906,Reactome,117,5056
+Apoptotic Cleavage Of Cellular Proteins R-HSA-111465,Reactome,118,5057
+Apoptotic Execution Phase R-HSA-75153,Reactome,119,5058
+Apoptotic Factor-Mediated Response R-HSA-111471,Reactome,120,5059
+Aquaporin-mediated Transport R-HSA-445717,Reactome,121,5060
+Arachidonate Production From DAG R-HSA-426048,Reactome,122,5061
+Arachidonic Acid Metabolism R-HSA-2142753,Reactome,123,5062
+Aryl Hydrocarbon Receptor Signaling R-HSA-8937144,Reactome,124,5063
+Asparagine N-linked Glycosylation R-HSA-446203,Reactome,125,5064
+Aspartate And Asparagine Metabolism R-HSA-8963693,Reactome,126,5065
+Aspirin ADME R-HSA-9749641,Reactome,127,5066
+Assembly Of HIV Virion R-HSA-175474,Reactome,128,5067
+Assembly And Cell Surface Presentation Of NMDA Receptors R-HSA-9609736,Reactome,129,5068
+Assembly Of Active LPL And LIPC Lipase Complexes R-HSA-8963889,Reactome,130,5069
+Assembly Of Collagen Fibrils And Other Multimeric Structures R-HSA-2022090,Reactome,131,5070
+Assembly Of ORC Complex At Origin Of Replication R-HSA-68616,Reactome,132,5071
+Assembly Of Pre-Replicative Complex R-HSA-68867,Reactome,133,5072
+Association Of TriC/CCT With Target Proteins During Biosynthesis R-HSA-390471,Reactome,134,5073
+Asymmetric Localization Of PCP Proteins R-HSA-4608870,Reactome,135,5074
+Attachment And Entry R-HSA-9678110,Reactome,137,5075
+Attachment Of GPI Anchor To uPAR R-HSA-162791,Reactome,138,5076
+Attenuation Phase R-HSA-3371568,Reactome,139,5077
+Autodegradation Of Cdh1 By Cdh1:APC/C R-HSA-174084,Reactome,140,5078
+Autodegradation Of E3 Ubiquitin Ligase COP1 R-HSA-349425,Reactome,141,5079
+Autophagy R-HSA-9612973,Reactome,142,5080
+Axon Guidance R-HSA-422475,Reactome,143,5081
+Axonal Growth Inhibition (RHOA Activation) R-HSA-193634,Reactome,144,5082
+Azathioprine ADME R-HSA-9748787,Reactome,145,5083
+B-WICH Complex Positively Regulates rRNA Expression R-HSA-5250924,Reactome,146,5084
+BBSome-mediated Cargo-Targeting To Cilium R-HSA-5620922,Reactome,147,5085
+BH3-only Proteins Associate With And Inactivate Anti-Apoptotic BCL-2 Members R-HSA-111453,Reactome,148,5086
+"BMAL1:CLOCK,NPAS2 Activates Circadian Gene Expression R-HSA-1368108",Reactome,149,5087
+Base Excision Repair R-HSA-73884,Reactome,150,5088
+"Base-Excision Repair, AP Site Formation R-HSA-73929",Reactome,151,5089
+Basigin Interactions R-HSA-210991,Reactome,152,5090
+Beta Defensins R-HSA-1461957,Reactome,153,5091
+Beta Oxidation Of butanoyl-CoA To acetyl-CoA R-HSA-77352,Reactome,154,5092
+Beta Oxidation Of decanoyl-CoA To octanoyl-CoA-CoA R-HSA-77346,Reactome,155,5093
+Beta Oxidation Of hexanoyl-CoA To butanoyl-CoA R-HSA-77350,Reactome,156,5094
+Beta Oxidation Of lauroyl-CoA To decanoyl-CoA-CoA R-HSA-77310,Reactome,157,5095
+Beta Oxidation Of octanoyl-CoA To hexanoyl-CoA R-HSA-77348,Reactome,158,5096
+Beta-catenin Independent WNT Signaling R-HSA-3858494,Reactome,159,5097
+Beta-catenin Phosphorylation Cascade R-HSA-196299,Reactome,160,5098
+Beta-oxidation Of pristanoyl-CoA R-HSA-389887,Reactome,161,5099
+Beta-oxidation Of Very Long Chain Fatty Acids R-HSA-390247,Reactome,162,5100
+Bicarbonate Transporters R-HSA-425381,Reactome,163,5101
+Bile Acid And Bile Salt Metabolism R-HSA-194068,Reactome,164,5102
+Binding And Uptake Of Ligands By Scavenger Receptors R-HSA-2173782,Reactome,165,5103
+Binding And Entry Of HIV Virion R-HSA-173107,Reactome,166,5104
+Binding Of TCF/LEF:CTNNB1 To Target Gene Promoters R-HSA-4411364,Reactome,167,5105
+Biological Oxidations R-HSA-211859,Reactome,168,5106
+Biosynthesis Of DHA-derived SPMs R-HSA-9018677,Reactome,169,5107
+Biosynthesis Of E-series 18(S)-resolvins R-HSA-9018896,Reactome,170,5108
+Biosynthesis Of EPA-derived SPMs R-HSA-9018679,Reactome,171,5109
+Biosynthesis Of Specialized Proresolving Mediators (SPMs) R-HSA-9018678,Reactome,174,5110
+Biosynthesis Of N-glycan Precursor (Dolichol LLO) And Transfer To Protein R-HSA-446193,Reactome,175,5111
+Biotin Transport And Metabolism R-HSA-196780,Reactome,176,5112
+Blood Group Systems Biosynthesis R-HSA-9033658,Reactome,177,5113
+Branched-chain Amino Acid Catabolism R-HSA-70895,Reactome,178,5114
+Budding And Maturation Of HIV Virion R-HSA-162588,Reactome,179,5115
+Butyrate Response Factor 1 Binds And Destabilizes mRNA R-HSA-450385,Reactome,180,5116
+Butyrophilin (BTN) Family Interactions R-HSA-8851680,Reactome,181,5117
+C-type Lectin Receptors (CLRs) R-HSA-5621481,Reactome,182,5118
+CASP8 Activity Is Inhibited R-HSA-5218900,Reactome,183,5119
+CD163 Mediating An Anti-Inflammatory Response R-HSA-9662834,Reactome,184,5120
+CD209 (DC-SIGN) Signaling R-HSA-5621575,Reactome,185,5121
+CD22 Mediated BCR Regulation R-HSA-5690714,Reactome,186,5122
+CD28 Co-Stimulation R-HSA-389356,Reactome,187,5123
+CD28 Dependent PI3K/Akt Signaling R-HSA-389357,Reactome,188,5124
+CD28 Dependent Vav1 Pathway R-HSA-389359,Reactome,189,5125
+CDC42 GTPase Cycle R-HSA-9013148,Reactome,190,5126
+CDC6 Association With ORC:origin Complex R-HSA-68689,Reactome,191,5127
+CDK-mediated Phosphorylation And Removal Of Cdc6 R-HSA-69017,Reactome,192,5128
+CLEC7A (Dectin-1) Induces NFAT Activation R-HSA-5607763,Reactome,194,5129
+CLEC7A (Dectin-1) Signaling R-HSA-5607764,Reactome,195,5130
+CLEC7A/inflammasome Pathway R-HSA-5660668,Reactome,196,5131
+COPI-dependent Golgi-to-ER Retrograde Traffic R-HSA-6811434,Reactome,197,5132
+COPI-independent Golgi-to-ER Retrograde Traffic R-HSA-6811436,Reactome,198,5133
+COPI-mediated Anterograde Transport R-HSA-6807878,Reactome,199,5134
+COPII-mediated Vesicle Transport R-HSA-204005,Reactome,200,5135
+CREB Phosphorylation R-HSA-199920,Reactome,201,5136
+CREB1 Phosphorylation Thru NMDA Receptor-Mediated Activation Of RAS Signaling R-HSA-442742,Reactome,202,5137
+CREB1 Phosphorylation Thru Activation Of Adenylate Cyclase R-HSA-442720,Reactome,203,5138
+CREB1 Phosphorylation Thru Activation Of CaMKII/CaMKK/CaMKIV Cascasde R-HSA-442729,Reactome,204,5139
+CREB3 Factors Activate Genes R-HSA-8874211,Reactome,205,5140
+CRMPs In Sema3A Signaling R-HSA-399956,Reactome,206,5141
+CS/DS Degradation R-HSA-2024101,Reactome,207,5142
+CTLA4 Inhibitory Signaling R-HSA-389513,Reactome,208,5143
+CTNNB1 S33 Mutants Not Phosphorylated R-HSA-5358747,Reactome,209,5144
+Ca-dependent Events R-HSA-111996,Reactome,211,5145
+Ca2+ Activated K+ Channels R-HSA-1296052,Reactome,212,5146
+Ca2+ Pathway R-HSA-4086398,Reactome,213,5147
+CaM Pathway R-HSA-111997,Reactome,214,5148
+CaMK IV-mediated Phosphorylation Of CREB R-HSA-111932,Reactome,215,5149
+Calcineurin Activates NFAT R-HSA-2025928,Reactome,216,5150
+Calcitonin-like Ligand Receptors R-HSA-419812,Reactome,217,5151
+Calnexin/calreticulin Cycle R-HSA-901042,Reactome,218,5152
+Cap-dependent Translation Initiation R-HSA-72737,Reactome,219,5153
+Carboxyterminal Post-Translational Modifications Of Tubulin R-HSA-8955332,Reactome,220,5154
+Cardiac Conduction R-HSA-5576891,Reactome,221,5155
+Cargo Concentration In ER R-HSA-5694530,Reactome,222,5156
+Cargo Recognition For Clathrin-Mediated Endocytosis R-HSA-8856825,Reactome,223,5157
+Cargo Trafficking To Periciliary Membrane R-HSA-5620920,Reactome,224,5158
+Carnitine Metabolism R-HSA-200425,Reactome,225,5159
+Caspase Activation Via Death Receptors In Presence Of Ligand R-HSA-140534,Reactome,226,5160
+Caspase Activation Via Dependence Receptors In Absence Of Ligand R-HSA-418889,Reactome,227,5161
+Caspase Activation Via Extrinsic Apoptotic Signaling Pathway R-HSA-5357769,Reactome,228,5162
+Caspase-mediated Cleavage Of Cytoskeletal Proteins R-HSA-264870,Reactome,229,5163
+Cation-coupled Chloride Cotransporters R-HSA-426117,Reactome,230,5164
+Cdc20:Phospho-APC/C Mediated Degradation Of Cyclin A R-HSA-174184,Reactome,231,5165
+Cell Cycle Checkpoints R-HSA-69620,Reactome,232,5166
+Cell Cycle R-HSA-1640170,Reactome,233,5167
+"Cell Cycle, Mitotic R-HSA-69278",Reactome,234,5168
+"Cell Death Signaling Via NRAGE, NRIF And NADE R-HSA-204998",Reactome,235,5169
+Cell Junction Organization R-HSA-446728,Reactome,236,5170
+Cell Recruitment (Pro-Inflammatory Response) R-HSA-9664424,Reactome,237,5171
+Cell Surface Interactions At Vascular Wall R-HSA-202733,Reactome,238,5172
+Cell-Cell Communication R-HSA-1500931,Reactome,239,5173
+Cell-cell Junction Organization R-HSA-421270,Reactome,240,5174
+Cell-extracellular Matrix Interactions R-HSA-446353,Reactome,241,5175
+Cellular Senescence R-HSA-2559583,Reactome,242,5176
+Cellular Hexose Transport R-HSA-189200,Reactome,243,5177
+Cellular Response To Chemical Stress R-HSA-9711123,Reactome,244,5178
+Cellular Response To Heat Stress R-HSA-3371556,Reactome,245,5179
+Cellular Response To Hypoxia R-HSA-1234174,Reactome,246,5180
+Cellular Response To Starvation R-HSA-9711097,Reactome,247,5181
+Cellular Responses To Stimuli R-HSA-8953897,Reactome,248,5182
+Cellular Responses To Stress R-HSA-2262752,Reactome,249,5183
+Centrosome Maturation R-HSA-380287,Reactome,250,5184
+ChREBP Activates Metabolic Gene Expression R-HSA-163765,Reactome,251,5185
+Chaperone Mediated Autophagy R-HSA-9613829,Reactome,252,5186
+Chaperonin-mediated Protein Folding R-HSA-390466,Reactome,253,5187
+Chemokine Receptors Bind Chemokines R-HSA-380108,Reactome,254,5188
+Chk1/Chk2(Cds1) Mediated Inactivation Of Cyclin B:Cdk1 Complex R-HSA-75035,Reactome,255,5189
+Cholesterol Biosynthesis R-HSA-191273,Reactome,256,5190
+Choline Catabolism R-HSA-6798163,Reactome,257,5191
+Chondroitin Sulfate Biosynthesis R-HSA-2022870,Reactome,258,5192
+Chondroitin Sulfate/Dermatan Sulfate Metabolism R-HSA-1793185,Reactome,259,5193
+Chromatin Modifying Enzymes R-HSA-3247509,Reactome,260,5194
+Chromosome Maintenance R-HSA-73886,Reactome,261,5195
+Chylomicron Assembly R-HSA-8963888,Reactome,262,5196
+Chylomicron Clearance R-HSA-8964026,Reactome,263,5197
+Chylomicron Remodeling R-HSA-8963901,Reactome,264,5198
+Cilium Assembly R-HSA-5617833,Reactome,265,5199
+Circadian Clock R-HSA-400253,Reactome,266,5200
+Citric Acid Cycle (TCA Cycle) R-HSA-71403,Reactome,267,5201
+Class A/1 (Rhodopsin-like Receptors) R-HSA-373076,Reactome,268,5202
+Class B/2 (Secretin Family Receptors) R-HSA-373080,Reactome,269,5203
+Class C/3 (Metabotropic Glutamate/Pheromone Receptors) R-HSA-420499,Reactome,270,5204
+Class I MHC Mediated Antigen Processing And Presentation R-HSA-983169,Reactome,271,5205
+Class I Peroxisomal Membrane Protein Import R-HSA-9603798,Reactome,272,5206
+Classical Antibody-Mediated Complement Activation R-HSA-173623,Reactome,273,5207
+Clathrin-mediated Endocytosis R-HSA-8856828,Reactome,274,5208
+Cleavage Of Damaged Purine R-HSA-110331,Reactome,275,5209
+Cleavage Of Damaged Pyrimidine R-HSA-110329,Reactome,276,5210
+Cobalamin (Cbl) Metabolism R-HSA-9759218,Reactome,277,5211
+"Cobalamin (Cbl, Vitamin B12) Transport And Metabolism R-HSA-196741",Reactome,278,5212
+Coenzyme A Biosynthesis R-HSA-196783,Reactome,279,5213
+Cohesin Loading Onto Chromatin R-HSA-2470946,Reactome,280,5214
+Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814,Reactome,281,5215
+Collagen Chain Trimerization R-HSA-8948216,Reactome,282,5216
+Collagen Degradation R-HSA-1442490,Reactome,283,5217
+Collagen Formation R-HSA-1474290,Reactome,284,5218
+Common Pathway Of Fibrin Clot Formation R-HSA-140875,Reactome,285,5219
+Competing Endogenous RNAs (ceRNAs) Regulate PTEN Translation R-HSA-8948700,Reactome,286,5220
+Complement Cascade R-HSA-166658,Reactome,287,5221
+Complex I Biogenesis R-HSA-6799198,Reactome,288,5222
+Condensation Of Prometaphase Chromosomes R-HSA-2514853,Reactome,289,5223
+Condensation Of Prophase Chromosomes R-HSA-2299718,Reactome,290,5224
+Constitutive Signaling By AKT1 E17K In Cancer R-HSA-5674400,Reactome,293,5225
+Constitutive Signaling By Aberrant PI3K In Cancer R-HSA-2219530,Reactome,294,5226
+Constitutive Signaling By EGFRvIII R-HSA-5637810,Reactome,295,5227
+Constitutive Signaling By Ligand-Responsive EGFR Cancer Variants R-HSA-1236382,Reactome,296,5228
+Constitutive Signaling By NOTCH1 HD Domain Mutants R-HSA-2691232,Reactome,297,5229
+Constitutive Signaling By NOTCH1 HD+PEST Domain Mutants R-HSA-2894862,Reactome,298,5230
+Constitutive Signaling By NOTCH1 t(7;9)(NOTCH1:M1580 K2555) Translocation Mutant R-HSA-2660826,Reactome,299,5231
+Constitutive Signaling By Overexpressed ERBB2 R-HSA-9634285,Reactome,300,5232
+Conversion From APC/C:Cdc20 To APC/C:Cdh1 In Late Anaphase R-HSA-176407,Reactome,301,5233
+Cooperation Of PDCL (PhLP1) And TRiC/CCT In G-protein Beta Folding R-HSA-6814122,Reactome,302,5234
+Cooperation Of Prefoldin And TriC/CCT In Actin And Tubulin Folding R-HSA-389958,Reactome,303,5235
+Costimulation By CD28 Family R-HSA-388841,Reactome,304,5236
+Creatine Metabolism R-HSA-71288,Reactome,305,5237
+Creation Of C4 And C2 Activators R-HSA-166786,Reactome,306,5238
+Cristae Formation R-HSA-8949613,Reactome,307,5239
+Cross-presentation Of Particulate Exogenous Antigens (Phagosomes) R-HSA-1236973,Reactome,308,5240
+Cross-presentation Of Soluble Exogenous Antigens (Endosomes) R-HSA-1236978,Reactome,309,5241
+Crosslinking Of Collagen Fibrils R-HSA-2243919,Reactome,310,5242
+Cyclin A/B1/B2 Associated Events During G2/M Transition R-HSA-69273,Reactome,311,5243
+Cyclin A:Cdk2-associated Events At S Phase Entry R-HSA-69656,Reactome,312,5244
+Cyclin D Associated Events In G1 R-HSA-69231,Reactome,313,5245
+Cyclin E Associated Events During G1/S Transition R-HSA-69202,Reactome,314,5246
+Cytochrome P450 - Arranged By Substrate Type R-HSA-211897,Reactome,315,5247
+Cytochrome C-Mediated Apoptotic Response R-HSA-111461,Reactome,316,5248
+Cytokine Signaling In Immune System R-HSA-1280215,Reactome,317,5249
+Cytoprotection By HMOX1 R-HSA-9707564,Reactome,318,5250
+Cytosolic Iron-Sulfur Cluster Assembly R-HSA-2564830,Reactome,319,5251
+Cytosolic Sensors Of Pathogen-Associated DNA R-HSA-1834949,Reactome,320,5252
+Cytosolic Sulfonation Of Small Molecules R-HSA-156584,Reactome,321,5253
+Cytosolic tRNA Aminoacylation R-HSA-379716,Reactome,322,5254
+DAG And IP3 Signaling R-HSA-1489509,Reactome,323,5255
+DAP12 Interactions R-HSA-2172127,Reactome,324,5256
+DAP12 Signaling R-HSA-2424491,Reactome,325,5257
+DARPP-32 Events R-HSA-180024,Reactome,326,5258
+DCC Mediated Attractive Signaling R-HSA-418885,Reactome,327,5259
+DDX58/IFIH1-mediated Induction Of Interferon-Alpha/Beta R-HSA-168928,Reactome,328,5260
+DEx/H-box Helicases Activate Type I IFN And Inflammatory Cytokines Production R-HSA-3134963,Reactome,329,5261
+DNA Damage Bypass R-HSA-73893,Reactome,330,5262
+DNA Damage Recognition In GG-NER R-HSA-5696394,Reactome,331,5263
+DNA Damage Reversal R-HSA-73942,Reactome,332,5264
+DNA Damage/Telomere Stress Induced Senescence R-HSA-2559586,Reactome,333,5265
+DNA Double Strand Break Response R-HSA-5693606,Reactome,334,5266
+DNA Double-Strand Break Repair R-HSA-5693532,Reactome,335,5267
+DNA Repair R-HSA-73894,Reactome,336,5268
+DNA Replication Pre-Initiation R-HSA-69002,Reactome,337,5269
+DNA Replication R-HSA-69306,Reactome,338,5270
+DNA Methylation R-HSA-5334118,Reactome,339,5271
+DNA Replication Initiation R-HSA-68952,Reactome,340,5272
+DNA Strand Elongation R-HSA-69190,Reactome,341,5273
+DSCAM Interactions R-HSA-376172,Reactome,342,5274
+Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402,Reactome,343,5275
+Deadenylation Of mRNA R-HSA-429947,Reactome,344,5276
+Deadenylation-dependent mRNA Decay R-HSA-429914,Reactome,345,5277
+Death Receptor Signaling R-HSA-73887,Reactome,346,5278
+Dectin-1 Mediated Noncanonical NF-kB Signaling R-HSA-5607761,Reactome,347,5279
+Dectin-2 Family R-HSA-5621480,Reactome,348,5280
+Defective B3GALT6 Causes EDSP2 And SEMDJL1 R-HSA-4420332,Reactome,349,5281
+Defective B3GALTL Causes PpS R-HSA-5083635,Reactome,350,5282
+Defective B3GAT3 Causes JDSSDHD R-HSA-3560801,Reactome,351,5283
+Defective B4GALT1 Causes B4GALT1-CDG (CDG-2d) R-HSA-3656244,Reactome,352,5284
+"Defective B4GALT7 Causes EDS, Progeroid Type R-HSA-3560783",Reactome,353,5285
+Defective C1GALT1C1 Causes TNPS R-HSA-5083632,Reactome,354,5286
+Defective CFTR Causes Cystic Fibrosis R-HSA-5678895,Reactome,355,5287
+"Defective CHST14 Causes EDS, Musculocontractural Type R-HSA-3595174",Reactome,356,5288
+Defective CHST3 Causes SEDCJD R-HSA-3595172,Reactome,357,5289
+Defective CHST6 Causes MCDC1 R-HSA-3656225,Reactome,358,5290
+Defective CHSY1 Causes TPBS R-HSA-3595177,Reactome,359,5291
+Defective CSF2RA Causes SMDP4 R-HSA-5688890,Reactome,360,5292
+"Defective EXT1 Causes Exostoses 1, TRPS2 And CHDS R-HSA-3656253",Reactome,361,5293
+Defective GALNT12 Causes CRCS1 R-HSA-5083636,Reactome,363,5294
+Defective GALNT3 Causes HFTC R-HSA-5083625,Reactome,364,5295
+Defective HDR Thru Homologous Recombination (HRR) Due To BRCA1 Loss-Of-Function R-HSA-9701192,Reactome,365,5296
+Defective HLCS Causes Multiple Carboxylase Deficiency R-HSA-3371599,Reactome,366,5297
+Defective Intrinsic Pathway For Apoptosis R-HSA-9734009,Reactome,367,5298
+Defective LFNG Causes SCDO3 R-HSA-5083630,Reactome,368,5299
+Defective RIPK1-mediated Regulated Necrosis R-HSA-9693928,Reactome,369,5300
+Defective ST3GAL3 Causes MCT12 And EIEE15 R-HSA-3656243,Reactome,370,5301
+Defective TPR May Confer Susceptibility Towards Thyroid Papillary Carcinoma (TPC) R-HSA-5619107,Reactome,371,5302
+Defective Factor IX Causes Hemophilia B R-HSA-9668250,Reactome,372,5303
+Defective Factor VIII Causes Hemophilia A R-HSA-9662001,Reactome,373,5304
+Defective Homologous Recombination Repair (HRR) Due To BRCA2 Loss Of Function R-HSA-9701190,Reactome,374,5305
+Defective Pyroptosis R-HSA-9710421,Reactome,375,5306
+Defects In Biotin (Btn) Metabolism R-HSA-3323169,Reactome,376,5307
+Defects In Cobalamin (B12) Metabolism R-HSA-3296469,Reactome,377,5308
+Defects In Vitamin And Cofactor Metabolism R-HSA-3296482,Reactome,378,5309
+Defects Of Contact Activation System (CAS) And Kallikrein/Kinin System (KKS) R-HSA-9651496,Reactome,379,5310
+Defensins R-HSA-1461973,Reactome,380,5311
+Degradation Of AXIN R-HSA-4641257,Reactome,381,5312
+Degradation Of DVL R-HSA-4641258,Reactome,382,5313
+Degradation Of GLI1 By Proteasome R-HSA-5610780,Reactome,383,5314
+Degradation Of GLI2 By Proteasome R-HSA-5610783,Reactome,384,5315
+Degradation Of Beta-Catenin By Destruction Complex R-HSA-195253,Reactome,385,5316
+Degradation Of Cysteine And Homocysteine R-HSA-1614558,Reactome,386,5317
+Degradation Of Extracellular Matrix R-HSA-1474228,Reactome,387,5318
+Depolymerisation Of Nuclear Lamina R-HSA-4419969,Reactome,388,5319
+Deposition Of New CENPA-containing Nucleosomes At Centromere R-HSA-606279,Reactome,389,5320
+Deregulated CDK5 Triggers Neurodegenerative Pathways In Alzheimers Disease Models R-HSA-8862803,Reactome,390,5321
+Dermatan Sulfate Biosynthesis R-HSA-2022923,Reactome,391,5322
+Detoxification Of Reactive Oxygen Species R-HSA-3299685,Reactome,392,5323
+Deubiquitination R-HSA-5688426,Reactome,393,5324
+Developmental Biology R-HSA-1266738,Reactome,394,5325
+Digestion R-HSA-8935690,Reactome,395,5326
+Digestion And Absorption R-HSA-8963743,Reactome,396,5327
+Digestion Of Dietary Carbohydrate R-HSA-189085,Reactome,397,5328
+Digestion Of Dietary Lipid R-HSA-192456,Reactome,398,5329
+Dimerization Of Procaspase-8 R-HSA-69416,Reactome,399,5330
+Disassembly Of Destruction Complex And Recruitment Of AXIN To Membrane R-HSA-4641262,Reactome,400,5331
+Disease R-HSA-1643685,Reactome,401,5332
+Diseases Associated With N-glycosylation Of Proteins R-HSA-3781860,Reactome,402,5333
+Diseases Associated With O-glycosylation Of Proteins R-HSA-3906995,Reactome,403,5334
+Diseases Associated With Glycosaminoglycan Metabolism R-HSA-3560782,Reactome,404,5335
+Diseases Associated With Glycosylation Precursor Biosynthesis R-HSA-5609975,Reactome,405,5336
+Diseases Associated With Surfactant Metabolism R-HSA-5687613,Reactome,406,5337
+Diseases Associated With TLR Signaling Cascade R-HSA-5602358,Reactome,407,5338
+Diseases Of DNA Repair R-HSA-9675135,Reactome,410,5339
+Diseases Of Mismatch Repair (MMR) R-HSA-5423599,Reactome,411,5340
+Diseases Of Carbohydrate Metabolism R-HSA-5663084,Reactome,412,5341
+Diseases Of Glycosylation R-HSA-3781865,Reactome,413,5342
+Diseases Of Metabolism R-HSA-5668914,Reactome,414,5343
+Diseases Of Mitotic Cell Cycle R-HSA-9675126,Reactome,415,5344
+Diseases Of Programmed Cell Death R-HSA-9645723,Reactome,416,5345
+Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202,Reactome,417,5346
+Disinhibition Of SNARE Formation R-HSA-114516,Reactome,418,5347
+Disorders Of Developmental Biology R-HSA-9675151,Reactome,419,5348
+Disorders Of Transmembrane Transporters R-HSA-5619115,Reactome,420,5349
+Displacement Of DNA Glycosylase By APEX1 R-HSA-110357,Reactome,421,5350
+Dopamine Neurotransmitter Release Cycle R-HSA-212676,Reactome,423,5351
+Downregulation Of ERBB2 Signaling R-HSA-8863795,Reactome,425,5352
+Downregulation Of ERBB2:ERBB3 Signaling R-HSA-1358803,Reactome,426,5353
+Downregulation Of ERBB4 Signaling R-HSA-1253288,Reactome,427,5354
+Downregulation Of SMAD2/3:SMAD4 Transcriptional Activity R-HSA-2173795,Reactome,428,5355
+Downregulation Of TGF-beta Receptor Signaling R-HSA-2173788,Reactome,429,5356
+Downstream TCR Signaling R-HSA-202424,Reactome,430,5357
+Downstream Signal Transduction R-HSA-186763,Reactome,431,5358
+Downstream Signaling Events Of B Cell Receptor (BCR) R-HSA-1168372,Reactome,432,5359
+Downstream Signaling Of Activated FGFR1 R-HSA-5654687,Reactome,433,5360
+Downstream Signaling Of Activated FGFR2 R-HSA-5654696,Reactome,434,5361
+Downstream Signaling Of Activated FGFR3 R-HSA-5654708,Reactome,435,5362
+Downstream Signaling Of Activated FGFR4 R-HSA-5654716,Reactome,436,5363
+Drug ADME R-HSA-9748784,Reactome,437,5364
+Drug-mediated Inhibition Of CDK4/CDK6 Activity R-HSA-9754119,Reactome,438,5365
+Dual Incision In GG-NER R-HSA-5696400,Reactome,439,5366
+Dual Incision In TC-NER R-HSA-6782135,Reactome,440,5367
+E2F Mediated Regulation Of DNA Replication R-HSA-113510,Reactome,441,5368
+E2F-enabled Inhibition Of Pre-Replication Complex Formation R-HSA-113507,Reactome,442,5369
+E3 Ubiquitin Ligases Ubiquitinate Target Proteins R-HSA-8866654,Reactome,443,5370
+ECM Proteoglycans R-HSA-3000178,Reactome,444,5371
+EGFR Transactivation By Gastrin R-HSA-2179392,Reactome,445,5372
+EGFR Downregulation R-HSA-182971,Reactome,446,5373
+EGFR Interacts With Phospholipase C-gamma R-HSA-212718,Reactome,447,5374
+EGR2 And SOX10-mediated Initiation Of Schwann Cell Myelination R-HSA-9619665,Reactome,448,5375
+EML4 And NUDC In Mitotic Spindle Formation R-HSA-9648025,Reactome,449,5376
+EPH-Ephrin Signaling R-HSA-2682334,Reactome,450,5377
+EPH-ephrin Mediated Repulsion Of Cells R-HSA-3928665,Reactome,451,5378
+EPHA-mediated Growth Cone Collapse R-HSA-3928663,Reactome,452,5379
+EPHB-mediated Forward Signaling R-HSA-3928662,Reactome,453,5380
+ER Quality Control Compartment (ERQC) R-HSA-901032,Reactome,454,5381
+ER To Golgi Anterograde Transport R-HSA-199977,Reactome,455,5382
+ER-Phagosome Pathway R-HSA-1236974,Reactome,456,5383
+ERBB2 Activates PTK6 Signaling R-HSA-8847993,Reactome,457,5384
+ERBB2 Regulates Cell Motility R-HSA-6785631,Reactome,458,5385
+ERCC6 (CSB) And EHMT2 (G9a) Positively Regulate rRNA Expression R-HSA-427389,Reactome,459,5386
+ERK/MAPK Targets R-HSA-198753,Reactome,460,5387
+ERKs Are Inactivated R-HSA-202670,Reactome,461,5388
+ESR-mediated Signaling R-HSA-8939211,Reactome,462,5389
+Early Phase Of HIV Life Cycle R-HSA-162594,Reactome,463,5390
+Early SARS-CoV-2 Infection Events R-HSA-9772572,Reactome,464,5391
+Effects Of PIP2 Hydrolysis R-HSA-114508,Reactome,465,5392
+Eicosanoid Ligand-Binding Receptors R-HSA-391903,Reactome,466,5393
+Eicosanoids R-HSA-211979,Reactome,467,5394
+Elastic Fibre Formation R-HSA-1566948,Reactome,468,5395
+Elevation Of Cytosolic Ca2+ Levels R-HSA-139853,Reactome,469,5396
+Endogenous Sterols R-HSA-211976,Reactome,470,5397
+Endosomal Sorting Complex Required For Transport (ESCRT) R-HSA-917729,Reactome,471,5398
+Endosomal/Vacuolar Pathway R-HSA-1236977,Reactome,472,5399
+Energy Dependent Regulation Of mTOR By LKB1-AMPK R-HSA-380972,Reactome,473,5400
+Entry Of Influenza Virion Into Host Cell Via Endocytosis R-HSA-168275,Reactome,474,5401
+Ephrin Signaling R-HSA-3928664,Reactome,475,5402
+Epigenetic Regulation Of Gene Expression R-HSA-212165,Reactome,476,5403
+Erythrocytes Take Up Carbon Dioxide And Release Oxygen R-HSA-1237044,Reactome,477,5404
+Erythrocytes Take Up Oxygen And Release Carbon Dioxide R-HSA-1247673,Reactome,478,5405
+Erythropoietin Activates Phosphoinositide-3-kinase (PI3K) R-HSA-9027276,Reactome,479,5406
+Erythropoietin Activates Phospholipase C Gamma (PLCG) R-HSA-9027277,Reactome,480,5407
+Erythropoietin Activates RAS R-HSA-9027284,Reactome,481,5408
+Erythropoietin Activates STAT5 R-HSA-9027283,Reactome,482,5409
+Establishment Of Sister Chromatid Cohesion R-HSA-2468052,Reactome,483,5410
+Estrogen Biosynthesis R-HSA-193144,Reactome,484,5411
+Estrogen-dependent Gene Expression R-HSA-9018519,Reactome,485,5412
+Estrogen-dependent Nuclear Events Downstream Of ESR-membrane Signaling R-HSA-9634638,Reactome,486,5413
+Estrogen-stimulated Signaling Thru PRKCZ R-HSA-9634635,Reactome,487,5414
+Ethanol Oxidation R-HSA-71384,Reactome,488,5415
+Eukaryotic Translation Elongation R-HSA-156842,Reactome,489,5416
+Eukaryotic Translation Termination R-HSA-72764,Reactome,490,5417
+Export Of Viral Ribonucleoproteins From Nucleus R-HSA-168274,Reactome,491,5418
+Expression And Translocation Of Olfactory Receptors R-HSA-9752946,Reactome,492,5419
+Extension Of Telomeres R-HSA-180786,Reactome,493,5420
+Extra-nuclear Estrogen Signaling R-HSA-9009391,Reactome,494,5421
+Extracellular Matrix Organization R-HSA-1474244,Reactome,495,5422
+Extrinsic Pathway Of Fibrin Clot Formation R-HSA-140834,Reactome,496,5423
+FBXL7 Down-Regulates AURKA During Mitotic Entry And In Early Mitosis R-HSA-8854050,Reactome,497,5424
+FBXW7 Mutants And NOTCH1 In Cancer R-HSA-2644605,Reactome,498,5425
+FCERI Mediated Ca+2 Mobilization R-HSA-2871809,Reactome,499,5426
+FCERI Mediated MAPK Activation R-HSA-2871796,Reactome,500,5427
+FCERI Mediated NF-kB Activation R-HSA-2871837,Reactome,501,5428
+FCGR Activation R-HSA-2029481,Reactome,502,5429
+FCGR3A-mediated IL10 Synthesis R-HSA-9664323,Reactome,503,5430
+FCGR3A-mediated Phagocytosis R-HSA-9664422,Reactome,504,5431
+FGFR1 Ligand Binding And Activation R-HSA-190242,Reactome,505,5432
+FGFR1 Mutant Receptor Activation R-HSA-1839124,Reactome,506,5433
+FGFR1b Ligand Binding And Activation R-HSA-190370,Reactome,507,5434
+FGFR1c Ligand Binding And Activation R-HSA-190373,Reactome,508,5435
+FGFR2 Alternative Splicing R-HSA-6803529,Reactome,509,5436
+FGFR2 Mutant Receptor Activation R-HSA-1839126,Reactome,511,5437
+FGFRL1 Modulation Of FGFR1 Signaling R-HSA-5658623,Reactome,518,5438
+FLT3 Signaling R-HSA-9607240,Reactome,519,5439
+FLT3 Signaling By CBL Mutants R-HSA-9706377,Reactome,520,5440
+FLT3 Signaling In Disease R-HSA-9682385,Reactome,521,5441
+FLT3 Signaling Thru SRC Family Kinases R-HSA-9706374,Reactome,522,5442
+FOXO-mediated Transcription R-HSA-9614085,Reactome,523,5443
+FOXO-mediated Transcription Of Cell Cycle Genes R-HSA-9617828,Reactome,524,5444
+FOXO-mediated Transcription Of Cell Death Genes R-HSA-9614657,Reactome,525,5445
+"FOXO-mediated Transcription Of Oxidative Stress, Metabolic And Neuronal Genes R-HSA-9615017",Reactome,526,5446
+FRS-mediated FGFR1 Signaling R-HSA-5654693,Reactome,527,5447
+FRS-mediated FGFR2 Signaling R-HSA-5654700,Reactome,528,5448
+FRS-mediated FGFR3 Signaling R-HSA-5654706,Reactome,529,5449
+FRS-mediated FGFR4 Signaling R-HSA-5654712,Reactome,530,5450
+Factors Involved In Megakaryocyte Development And Platelet Production R-HSA-983231,Reactome,531,5451
+Fanconi Anemia Pathway R-HSA-6783310,Reactome,532,5452
+FasL/ CD95L Signaling R-HSA-75157,Reactome,533,5453
+Fatty Acid Metabolism R-HSA-8978868,Reactome,535,5454
+Fatty Acids R-HSA-211935,Reactome,536,5455
+Fatty acyl-CoA Biosynthesis R-HSA-75105,Reactome,537,5456
+Fc Epsilon Receptor (FCERI) Signaling R-HSA-2454202,Reactome,538,5457
+Fcgamma Receptor (FCGR) Dependent Phagocytosis R-HSA-2029480,Reactome,539,5458
+Fertilization R-HSA-1187000,Reactome,540,5459
+Fibronectin Matrix Formation R-HSA-1566977,Reactome,541,5460
+Ficolins Bind To Repetitive Carbohydrate Structures On Target Cell Surface R-HSA-2855086,Reactome,542,5461
+Folding Of Actin By CCT/TriC R-HSA-390450,Reactome,543,5462
+Formation Of ATP By Chemiosmotic Coupling R-HSA-163210,Reactome,544,5463
+Formation Of Fibrin Clot (Clotting Cascade) R-HSA-140877,Reactome,545,5464
+Formation Of HIV Elongation Complex In Absence Of HIV Tat R-HSA-167152,Reactome,546,5465
+Formation Of HIV-1 Elongation Complex Containing HIV-1 Tat R-HSA-167200,Reactome,547,5466
+Formation Of Incision Complex In GG-NER R-HSA-5696395,Reactome,548,5467
+Formation Of RNA Pol II Elongation Complex R-HSA-112382,Reactome,549,5468
+Formation Of Senescence-Associated Heterochromatin Foci (SAHF) R-HSA-2559584,Reactome,550,5469
+Formation Of TC-NER Pre-Incision Complex R-HSA-6781823,Reactome,551,5470
+Formation Of A Pool Of Free 40S Subunits R-HSA-72689,Reactome,552,5471
+Formation Of Annular Gap Junctions R-HSA-196025,Reactome,553,5472
+Formation Of Apoptosome R-HSA-111458,Reactome,554,5473
+Formation Of Early Elongation Complex R-HSA-113418,Reactome,555,5474
+Formation Of Editosome R-HSA-75094,Reactome,556,5475
+Formation Of beta-catenin:TCF Transactivating Complex R-HSA-201722,Reactome,557,5476
+Formation Of Cornified Envelope R-HSA-6809371,Reactome,558,5477
+"Formation Of Ternary Complex, And Subsequently, 43S Complex R-HSA-72695",Reactome,559,5478
+Formation Of Tubulin Folding Intermediates By CCT/TriC R-HSA-389960,Reactome,560,5479
+Formation Of Xylulose-5-Phosphate R-HSA-5661270,Reactome,561,5480
+Formyl Peptide Receptors Bind Formyl Peptides And Many Other Ligands R-HSA-444473,Reactome,562,5481
+Free Fatty Acids Regulate Insulin Secretion R-HSA-400451,Reactome,564,5482
+Frs2-mediated Activation R-HSA-170968,Reactome,565,5483
+Fructose Catabolism R-HSA-70350,Reactome,566,5484
+Fructose Metabolism R-HSA-5652084,Reactome,567,5485
+G Alpha (12/13) Signaling Events R-HSA-416482,Reactome,568,5486
+G Alpha (I) Signaling Events R-HSA-418594,Reactome,569,5487
+G Alpha (Q) Signaling Events R-HSA-416476,Reactome,570,5488
+G Alpha (S) Signaling Events R-HSA-418555,Reactome,571,5489
+G Alpha (Z) Signaling Events R-HSA-418597,Reactome,572,5490
+G Beta:Gamma Signaling Thru BTK R-HSA-8964315,Reactome,573,5491
+G Beta:Gamma Signaling Thru CDC42 R-HSA-8964616,Reactome,574,5492
+G Beta:Gamma Signaling Thru PI3Kgamma R-HSA-392451,Reactome,575,5493
+G Beta:Gamma Signaling Thru PLC Beta R-HSA-418217,Reactome,576,5494
+G-protein Activation R-HSA-202040,Reactome,577,5495
+G-protein Beta:Gamma Signaling R-HSA-397795,Reactome,578,5496
+G-protein Mediated Events R-HSA-112040,Reactome,579,5497
+G0 And Early G1 R-HSA-1538133,Reactome,580,5498
+G1/S DNA Damage Checkpoints R-HSA-69615,Reactome,581,5499
+G1/S Transition R-HSA-69206,Reactome,582,5500
+G1/S-Specific Transcription R-HSA-69205,Reactome,583,5501
+G2 Phase R-HSA-68911,Reactome,584,5502
+G2/M Checkpoints R-HSA-69481,Reactome,585,5503
+G2/M DNA Damage Checkpoint R-HSA-69473,Reactome,586,5504
+G2/M Transition R-HSA-69275,Reactome,588,5505
+GAB1 Signalosome R-HSA-180292,Reactome,589,5506
+GABA Receptor Activation R-HSA-977443,Reactome,590,5507
+"GABA Synthesis, Release, Reuptake And Degradation R-HSA-888590",Reactome,591,5508
+GDP-fucose Biosynthesis R-HSA-6787639,Reactome,592,5509
+GLI Proteins Bind Promoters Of Hh Responsive Genes To Promote Transcription R-HSA-5635851,Reactome,593,5510
+GLI3 Is Processed To GLI3R By Proteasome R-HSA-5610785,Reactome,594,5511
+GP1b-IX-V Activation Signaling R-HSA-430116,Reactome,595,5512
+GPCR Downstream Signaling R-HSA-388396,Reactome,596,5513
+GPCR Ligand Binding R-HSA-500792,Reactome,597,5514
+GPER1 Signaling R-HSA-9634597,Reactome,598,5515
+GPVI-mediated Activation Cascade R-HSA-114604,Reactome,599,5516
+GRB2 Events In EGFR Signaling R-HSA-179812,Reactome,600,5517
+GRB2 Events In ERBB2 Signaling R-HSA-1963640,Reactome,601,5518
+GRB2:SOS Provides Linkage To MAPK Signaling For Integrins R-HSA-354194,Reactome,602,5519
+GRB7 Events In ERBB2 Signaling R-HSA-1306955,Reactome,603,5520
+GSK3B And BTRC:CUL1-mediated-degradation Of NFE2L2 R-HSA-9762114,Reactome,604,5521
+GTP Hydrolysis And Joining Of 60S Ribosomal Subunit R-HSA-72706,Reactome,605,5522
+Gain-of-function MRAS Complexes Activate RAF Signaling R-HSA-9726842,Reactome,606,5523
+"Gamma Carboxylation, Hypusine Formation And Arylsulfatase Activation R-HSA-163841",Reactome,607,5524
+Gamma-carboxylation Of Protein Precursors R-HSA-159740,Reactome,608,5525
+"Gamma-carboxylation, Transport, And Amino-Terminal Cleavage Of Proteins R-HSA-159854",Reactome,609,5526
+Gap Junction Assembly R-HSA-190861,Reactome,610,5527
+Gap Junction Degradation R-HSA-190873,Reactome,611,5528
+Gap Junction Trafficking R-HSA-190828,Reactome,612,5529
+Gap Junction Trafficking And Regulation R-HSA-157858,Reactome,613,5530
+Gap-filling DNA Repair Synthesis And Ligation In GG-NER R-HSA-5696397,Reactome,614,5531
+Gap-filling DNA Repair Synthesis And Ligation In TC-NER R-HSA-6782210,Reactome,615,5532
+Gastrin-CREB Signaling Pathway Via PKC And MAPK R-HSA-881907,Reactome,616,5533
+Gastrulation R-HSA-9758941,Reactome,617,5534
+Gene Silencing By RNA R-HSA-211000,Reactome,618,5535
+Gene And Protein Expression By JAK-STAT Signaling After Interleukin-12 Stimulation R-HSA-8950505,Reactome,619,5536
+Gene Expression (Transcription) R-HSA-74160,Reactome,620,5537
+Generation Of Second Messenger Molecules R-HSA-202433,Reactome,621,5538
+Generic Transcription Pathway R-HSA-212436,Reactome,622,5539
+Global Genome Nucleotide Excision Repair (GG-NER) R-HSA-5696399,Reactome,623,5540
+Glucagon Signaling In Metabolic Regulation R-HSA-163359,Reactome,624,5541
+Glucagon-like Peptide-1 (GLP1) Regulates Insulin Secretion R-HSA-381676,Reactome,625,5542
+Glucagon-type Ligand Receptors R-HSA-420092,Reactome,626,5543
+Gluconeogenesis R-HSA-70263,Reactome,628,5544
+Glucose Metabolism R-HSA-70326,Reactome,629,5545
+Glucuronidation R-HSA-156588,Reactome,630,5546
+Glutamate Neurotransmitter Release Cycle R-HSA-210500,Reactome,631,5547
+Glutamate And Glutamine Metabolism R-HSA-8964539,Reactome,632,5548
+"Glutamate Binding, Activation Of AMPA Receptors And Synaptic Plasticity R-HSA-399721",Reactome,633,5549
+Glutathione Conjugation R-HSA-156590,Reactome,634,5550
+Glycerophospholipid Biosynthesis R-HSA-1483206,Reactome,636,5551
+Glycerophospholipid Catabolism R-HSA-6814848,Reactome,637,5552
+Glycogen Breakdown (Glycogenolysis) R-HSA-70221,Reactome,638,5553
+Glycogen Metabolism R-HSA-8982491,Reactome,639,5554
+Glycogen Storage Diseases R-HSA-3229121,Reactome,640,5555
+Glycogen Synthesis R-HSA-3322077,Reactome,641,5556
+Glycolysis R-HSA-70171,Reactome,642,5557
+Glycoprotein Hormones R-HSA-209822,Reactome,643,5558
+Glycosaminoglycan Metabolism R-HSA-1630316,Reactome,644,5559
+Glycosphingolipid Metabolism R-HSA-1660662,Reactome,645,5560
+Glyoxylate Metabolism And Glycine Degradation R-HSA-389661,Reactome,646,5561
+Golgi Associated Vesicle Biogenesis R-HSA-432722,Reactome,647,5562
+Golgi Cisternae Pericentriolar Stack Reorganization R-HSA-162658,Reactome,648,5563
+Golgi-to-ER Retrograde Transport R-HSA-8856688,Reactome,649,5564
+Growth Hormone Receptor Signaling R-HSA-982772,Reactome,650,5565
+HATs Acetylate Histones R-HSA-3214847,Reactome,651,5566
+HCMV Early Events R-HSA-9609690,Reactome,652,5567
+HCMV Infection R-HSA-9609646,Reactome,653,5568
+HCMV Late Events R-HSA-9610379,Reactome,654,5569
+HDACs Deacetylate Histones R-HSA-3214815,Reactome,655,5570
+HDL Assembly R-HSA-8963896,Reactome,656,5571
+HDL Clearance R-HSA-8964011,Reactome,657,5572
+HDMs Demethylate Histones R-HSA-3214842,Reactome,659,5573
+HDR Thru Homologous Recombination (HRR) R-HSA-5685942,Reactome,660,5574
+HDR Thru Homologous Recombination (HRR) Or Single Strand Annealing (SSA) R-HSA-5693567,Reactome,661,5575
+HDR Thru MMEJ (alt-NHEJ) R-HSA-5685939,Reactome,662,5576
+HDR Thru Single Strand Annealing (SSA) R-HSA-5685938,Reactome,663,5577
+HIV Infection R-HSA-162906,Reactome,664,5578
+HIV Life Cycle R-HSA-162587,Reactome,665,5579
+HIV Transcription Initiation R-HSA-167161,Reactome,666,5580
+HIV Elongation Arrest And Recovery R-HSA-167287,Reactome,667,5581
+HS-GAG Biosynthesis R-HSA-2022928,Reactome,668,5582
+HS-GAG Degradation R-HSA-2024096,Reactome,669,5583
+HSF1 Activation R-HSA-3371511,Reactome,670,5584
+HSF1-dependent Transactivation R-HSA-3371571,Reactome,671,5585
+HSP90 Chaperone Cycle For Steroid Hormone Receptors (SHR) In Presence Of Ligand R-HSA-3371497,Reactome,672,5586
+Hedgehog Off State R-HSA-5610787,Reactome,673,5587
+Hedgehog On State R-HSA-5632684,Reactome,674,5588
+Hedgehog Ligand Biogenesis R-HSA-5358346,Reactome,675,5589
+Heme Biosynthesis R-HSA-189451,Reactome,676,5590
+Heme Degradation R-HSA-189483,Reactome,677,5591
+Heme Signaling R-HSA-9707616,Reactome,678,5592
+Hemostasis R-HSA-109582,Reactome,679,5593
+Heparan Sulfate/Heparin (HS-GAG) Metabolism R-HSA-1638091,Reactome,680,5594
+Hh Mutants Abrogate Ligand Secretion R-HSA-5387390,Reactome,681,5595
+Hh Mutants Are Degraded By ERAD R-HSA-5362768,Reactome,682,5596
+Highly Calcium Permeable Nicotinic Acetylcholine Receptors R-HSA-629597,Reactome,683,5597
+Highly Calcium Permeable Postsynaptic Nicotinic Acetylcholine Receptors R-HSA-629594,Reactome,684,5598
+Highly Sodium Permeable Postsynaptic Acetylcholine Nicotinic Receptors R-HSA-629587,Reactome,685,5599
+Histidine Catabolism R-HSA-70921,Reactome,686,5600
+Homologous DNA Pairing And Strand Exchange R-HSA-5693579,Reactome,687,5601
+Homology Directed Repair R-HSA-5693538,Reactome,688,5602
+Hormone Ligand-Binding Receptors R-HSA-375281,Reactome,689,5603
+Host Interactions Of HIV Factors R-HSA-162909,Reactome,690,5604
+HuR (ELAVL1) Binds And Stabilizes mRNA R-HSA-450520,Reactome,691,5605
+Hyaluronan Metabolism R-HSA-2142845,Reactome,692,5606
+Hyaluronan Uptake And Degradation R-HSA-2160916,Reactome,693,5607
+IGF1R Signaling Cascade R-HSA-2428924,Reactome,695,5608
+IKK Complex Recruitment Mediated By RIP1 R-HSA-937041,Reactome,696,5609
+IL-6-type Cytokine Receptor Ligand Interactions R-HSA-6788467,Reactome,697,5610
+IRAK1 Recruits IKK Complex R-HSA-937039,Reactome,698,5611
+IRAK2 Mediated Activation Of TAK1 Complex R-HSA-937042,Reactome,699,5612
+IRAK2 Mediated Activation Of TAK1 Complex Upon TLR7/8 Or 9 Stimulation R-HSA-975163,Reactome,700,5613
+IRAK4 Deficiency (TLR2/4) R-HSA-5603041,Reactome,701,5614
+IRE1alpha Activates Chaperones R-HSA-381070,Reactome,702,5615
+IRF3-mediated Induction Of Type I IFN R-HSA-3270619,Reactome,704,5616
+IRS Activation R-HSA-74713,Reactome,705,5617
+IRS-mediated Signaling R-HSA-112399,Reactome,706,5618
+IRS-related Events Triggered By IGF1R R-HSA-2428928,Reactome,707,5619
+ISG15 Antiviral Mechanism R-HSA-1169408,Reactome,708,5620
+IkBA Variant Leads To EDA-ID R-HSA-5603029,Reactome,709,5621
+Immune System R-HSA-168256,Reactome,710,5622
+Immunoregulatory Interactions Between A Lymphoid And A non-Lymphoid Cell R-HSA-198933,Reactome,711,5623
+Impaired BRCA2 Binding To PALB2 R-HSA-9709603,Reactome,712,5624
+Impaired BRCA2 Binding To RAD51 R-HSA-9709570,Reactome,713,5625
+Inactivation Of APC/C Via Direct Inhibition Of APC/C Complex R-HSA-141430,Reactome,714,5626
+Inactivation Of CDC42 And RAC1 R-HSA-428543,Reactome,715,5627
+Inactivation Of CSF3 (G-CSF) Signaling R-HSA-9705462,Reactome,716,5628
+"Inactivation, Recovery And Regulation Of Phototransduction Cascade R-HSA-2514859",Reactome,717,5629
+"Incretin Synthesis, Secretion, And Inactivation R-HSA-400508",Reactome,718,5630
+Infection With Mycobacterium Tuberculosis R-HSA-9635486,Reactome,719,5631
+Infectious Disease R-HSA-5663205,Reactome,720,5632
+Inflammasomes R-HSA-622312,Reactome,721,5633
+Influenza Infection R-HSA-168255,Reactome,722,5634
+Influenza Viral RNA Transcription And Replication R-HSA-168273,Reactome,723,5635
+Inhibition Of DNA Recombination At Telomere R-HSA-9670095,Reactome,724,5636
+Inhibition Of Replication Initiation Of Damaged DNA By RB1/E2F1 R-HSA-113501,Reactome,726,5637
+Initial Triggering Of Complement R-HSA-166663,Reactome,727,5638
+Initiation Of Nuclear Envelope (NE) Reformation R-HSA-2995383,Reactome,728,5639
+InlA-mediated Entry Of Listeria Monocytogenes Into Host Cells R-HSA-8876493,Reactome,729,5640
+InlB-mediated Entry Of Listeria Monocytogenes Into Host Cell R-HSA-8875360,Reactome,730,5641
+Innate Immune System R-HSA-168249,Reactome,731,5642
+Inositol Phosphate Metabolism R-HSA-1483249,Reactome,732,5643
+Insertion Of Tail-Anchored Proteins Into Endoplasmic Reticulum Membrane R-HSA-9609523,Reactome,733,5644
+Insulin Processing R-HSA-264876,Reactome,734,5645
+Insulin Receptor Recycling R-HSA-77387,Reactome,735,5646
+Insulin Receptor Signaling Cascade R-HSA-74751,Reactome,736,5647
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) Bind RNA R-HSA-428359,Reactome,737,5648
+Integration Of Energy Metabolism R-HSA-163685,Reactome,738,5649
+Integration Of Provirus R-HSA-162592,Reactome,739,5650
+Integrin Cell Surface Interactions R-HSA-216083,Reactome,740,5651
+Integrin Signaling R-HSA-354192,Reactome,741,5652
+Interaction With Cumulus Cells And Zona Pellucida R-HSA-2534343,Reactome,742,5653
+Interaction Between L1 And Ankyrins R-HSA-445095,Reactome,743,5654
+Interactions Of Rev With Host Cellular Proteins R-HSA-177243,Reactome,744,5655
+Interactions Of Vpr With Host Cellular Proteins R-HSA-176033,Reactome,745,5656
+Interconversion Of Nucleotide Di- And Triphosphates R-HSA-499943,Reactome,746,5657
+Interferon Signaling R-HSA-913531,Reactome,747,5658
+Interferon Alpha/Beta Signaling R-HSA-909733,Reactome,748,5659
+Interferon Gamma Signaling R-HSA-877300,Reactome,749,5660
+Interleukin Receptor SHC Signaling R-HSA-912526,Reactome,750,5661
+Interleukin-1 Family Signaling R-HSA-446652,Reactome,751,5662
+Interleukin-1 Processing R-HSA-448706,Reactome,752,5663
+Interleukin-1 Signaling R-HSA-9020702,Reactome,753,5664
+Interleukin-10 Signaling R-HSA-6783783,Reactome,754,5665
+Interleukin-12 Family Signaling R-HSA-447115,Reactome,755,5666
+Interleukin-12 Signaling R-HSA-9020591,Reactome,756,5667
+Interleukin-15 Signaling R-HSA-8983432,Reactome,757,5668
+Interleukin-17 Signaling R-HSA-448424,Reactome,758,5669
+Interleukin-18 Signaling R-HSA-9012546,Reactome,759,5670
+Interleukin-2 Family Signaling R-HSA-451927,Reactome,760,5671
+Interleukin-2 Signaling R-HSA-9020558,Reactome,761,5672
+Interleukin-20 Family Signaling R-HSA-8854691,Reactome,762,5673
+Interleukin-21 Signaling R-HSA-9020958,Reactome,763,5674
+Interleukin-23 Signaling R-HSA-9020933,Reactome,764,5675
+Interleukin-27 Signaling R-HSA-9020956,Reactome,765,5676
+"Interleukin-3, Interleukin-5 And GM-CSF Signaling R-HSA-512988",Reactome,766,5677
+Interleukin-35 Signaling R-HSA-8984722,Reactome,767,5678
+Interleukin-36 Pathway R-HSA-9014826,Reactome,768,5679
+Interleukin-37 Signaling R-HSA-9008059,Reactome,769,5680
+Interleukin-4 And Interleukin-13 Signaling R-HSA-6785807,Reactome,770,5681
+Interleukin-6 Family Signaling R-HSA-6783589,Reactome,771,5682
+Interleukin-6 Signaling R-HSA-1059683,Reactome,772,5683
+Interleukin-7 Signaling R-HSA-1266695,Reactome,773,5684
+Interleukin-9 Signaling R-HSA-8985947,Reactome,774,5685
+Intestinal Absorption R-HSA-8963676,Reactome,775,5686
+Intra-Golgi And Retrograde Golgi-to-ER Traffic R-HSA-6811442,Reactome,776,5687
+Intra-Golgi Traffic R-HSA-6811438,Reactome,777,5688
+Intracellular Signaling By Second Messengers R-HSA-9006925,Reactome,778,5689
+Intraflagellar Transport R-HSA-5620924,Reactome,779,5690
+Intrinsic Pathway For Apoptosis R-HSA-109606,Reactome,780,5691
+Intrinsic Pathway Of Fibrin Clot Formation R-HSA-140837,Reactome,781,5692
+Inwardly Rectifying K+ Channels R-HSA-1296065,Reactome,782,5693
+Ion Channel Transport R-HSA-983712,Reactome,783,5694
+Ion Homeostasis R-HSA-5578775,Reactome,784,5695
+Ion Transport By P-type ATPases R-HSA-936837,Reactome,785,5696
+Iron Uptake And Transport R-HSA-917937,Reactome,786,5697
+JNK (c-Jun Kinases) Phosphorylation And Activation Mediated By Activated Human TAK1 R-HSA-450321,Reactome,787,5698
+Josephin Domain DUBs R-HSA-5689877,Reactome,788,5699
+KEAP1-NFE2L2 Pathway R-HSA-9755511,Reactome,789,5700
+KSRP (KHSRP) Binds And Destabilizes mRNA R-HSA-450604,Reactome,790,5701
+Keratan Sulfate Biosynthesis R-HSA-2022854,Reactome,791,5702
+Keratan Sulfate Degradation R-HSA-2022857,Reactome,792,5703
+Keratan Sulfate/Keratin Metabolism R-HSA-1638074,Reactome,793,5704
+Keratinization R-HSA-6805567,Reactome,794,5705
+Ketone Body Metabolism R-HSA-74182,Reactome,795,5706
+Killing Mechanisms R-HSA-9664420,Reactome,796,5707
+Kinesins R-HSA-983189,Reactome,797,5708
+L13a-mediated Translational Silencing Of Ceruloplasmin Expression R-HSA-156827,Reactome,798,5709
+L1CAM Interactions R-HSA-373760,Reactome,799,5710
+LDL Clearance R-HSA-8964038,Reactome,800,5711
+LDL Remodeling R-HSA-8964041,Reactome,801,5712
+LGI-ADAM Interactions R-HSA-5682910,Reactome,802,5713
+LRR FLII-interacting Protein 1 (LRRFIP1) Activates Type I IFN Production R-HSA-3134973,Reactome,803,5714
+LTC4-CYSLTR Mediated IL4 Production R-HSA-9664535,Reactome,804,5715
+Lagging Strand Synthesis R-HSA-69186,Reactome,805,5716
+Laminin Interactions R-HSA-3000157,Reactome,806,5717
+Late Phase Of HIV Life Cycle R-HSA-162599,Reactome,807,5718
+Late SARS-CoV-2 Infection Events R-HSA-9772573,Reactome,808,5719
+Late Endosomal Microautophagy R-HSA-9615710,Reactome,809,5720
+Leading Strand Synthesis R-HSA-69109,Reactome,810,5721
+Lectin Pathway Of Complement Activation R-HSA-166662,Reactome,811,5722
+Leishmania Infection R-HSA-9658195,Reactome,812,5723
+Leukotriene Receptors R-HSA-391906,Reactome,813,5724
+Lewis Blood Group Biosynthesis R-HSA-9037629,Reactome,814,5725
+Ligand-receptor Interactions R-HSA-5632681,Reactome,815,5726
+Linoleic Acid (LA) Metabolism R-HSA-2046105,Reactome,816,5727
+Lipid Particle Organization R-HSA-8964572,Reactome,817,5728
+Lipophagy R-HSA-9613354,Reactome,818,5729
+Listeria Monocytogenes Entry Into Host Cells R-HSA-8876384,Reactome,819,5730
+Long-term Potentiation R-HSA-9620244,Reactome,820,5731
+Loss Of Function Of SMAD2/3 In Cancer R-HSA-3304349,Reactome,821,5732
+Loss Of Function Of TGFBR1 In Cancer R-HSA-3656534,Reactome,822,5733
+Loss Of MECP2 Binding Ability To NCoR/SMRT Complex R-HSA-9022537,Reactome,823,5734
+Loss Of Nlp From Mitotic Centrosomes R-HSA-380259,Reactome,824,5735
+Lysine Catabolism R-HSA-71064,Reactome,825,5736
+Lysosome Vesicle Biogenesis R-HSA-432720,Reactome,826,5737
+Lysosphingolipid And LPA Receptors R-HSA-419408,Reactome,827,5738
+M Phase R-HSA-68886,Reactome,828,5739
+MAP Kinase Activation R-HSA-450294,Reactome,829,5740
+MAP2K And MAPK Activation R-HSA-5674135,Reactome,830,5741
+MAP3K8 (TPL2)-dependent MAPK1/3 Activation R-HSA-5684264,Reactome,831,5742
+MAPK Family Signaling Cascades R-HSA-5683057,Reactome,832,5743
+MAPK Targets/ Nuclear Events Mediated By MAP Kinases R-HSA-450282,Reactome,833,5744
+MAPK1 (ERK2) Activation R-HSA-112411,Reactome,834,5745
+MAPK1/MAPK3 Signaling R-HSA-5684996,Reactome,835,5746
+MAPK3 (ERK1) Activation R-HSA-110056,Reactome,836,5747
+MAPK6/MAPK4 Signaling R-HSA-5687128,Reactome,837,5748
+MASTL Facilitates Mitotic Progression R-HSA-2465910,Reactome,838,5749
+MECP2 Regulates Neuronal Receptors And Channels R-HSA-9022699,Reactome,839,5750
+MECP2 Regulates Transcription Factors R-HSA-9022707,Reactome,840,5751
+MECP2 Regulates Transcription Of Neuronal Ligands R-HSA-9022702,Reactome,841,5752
+MET Receptor Activation R-HSA-6806942,Reactome,842,5753
+MET Activates PI3K/AKT Signaling R-HSA-8851907,Reactome,843,5754
+MET Activates PTK2 Signaling R-HSA-8874081,Reactome,844,5755
+MET Activates PTPN11 R-HSA-8865999,Reactome,845,5756
+MET Activates RAP1 And RAC1 R-HSA-8875555,Reactome,846,5757
+MET Activates RAS Signaling R-HSA-8851805,Reactome,847,5758
+MET Interacts With TNS Proteins R-HSA-8875513,Reactome,848,5759
+MET Promotes Cell Motility R-HSA-8875878,Reactome,849,5760
+MET Receptor Recycling R-HSA-8875656,Reactome,850,5761
+MHC Class II Antigen Presentation R-HSA-2132295,Reactome,851,5762
+MTOR Signaling R-HSA-165159,Reactome,852,5763
+Macroautophagy R-HSA-1632852,Reactome,853,5764
+Major Pathway Of rRNA Processing In Nucleolus And Cytosol R-HSA-6791226,Reactome,854,5765
+Maturation Of Nucleoprotein R-HSA-9683610,Reactome,855,5766
+Maturation Of Protein 3A R-HSA-9683673,Reactome,856,5767
+Maturation Of Spike Protein R-HSA-9683686,Reactome,857,5768
+Meiosis R-HSA-1500620,Reactome,858,5769
+Meiotic Recombination R-HSA-912446,Reactome,859,5770
+Meiotic Synapsis R-HSA-1221632,Reactome,860,5771
+Membrane Trafficking R-HSA-199991,Reactome,862,5772
+Membrane Binding And Targetting Of GAG Proteins R-HSA-174490,Reactome,863,5773
+Metabolic Disorders Of Biological Oxidation Enzymes R-HSA-5579029,Reactome,864,5774
+Metabolism Of Angiotensinogen To Angiotensins R-HSA-2022377,Reactome,865,5775
+Metabolism Of RNA R-HSA-8953854,Reactome,866,5776
+Metabolism Of Amine-Derived Hormones R-HSA-209776,Reactome,867,5777
+Metabolism Of Amino Acids And Derivatives R-HSA-71291,Reactome,868,5778
+Metabolism Of Carbohydrates R-HSA-71387,Reactome,869,5779
+Metabolism Of Cofactors R-HSA-8978934,Reactome,870,5780
+Metabolism Of Fat-Soluble Vitamins R-HSA-6806667,Reactome,871,5781
+Metabolism Of Folate And Pterines R-HSA-196757,Reactome,872,5782
+"Metabolism Of Ingested SeMet, Sec, MeSec Into H2Se R-HSA-2408508",Reactome,873,5783
+Metabolism Of Lipids R-HSA-556833,Reactome,874,5784
+Metabolism Of Nitric Oxide: NOS3 Activation And Regulation R-HSA-202131,Reactome,875,5785
+Metabolism Of Non-Coding RNA R-HSA-194441,Reactome,876,5786
+Metabolism Of Nucleotides R-HSA-15869,Reactome,877,5787
+Metabolism Of Polyamines R-HSA-351202,Reactome,878,5788
+Metabolism Of Porphyrins R-HSA-189445,Reactome,879,5789
+Metabolism Of Proteins R-HSA-392499,Reactome,880,5790
+Metabolism Of Steroid Hormones R-HSA-196071,Reactome,881,5791
+Metabolism Of Steroids R-HSA-8957322,Reactome,882,5792
+Metabolism Of Vitamins And Cofactors R-HSA-196854,Reactome,883,5793
+Metabolism Of Water-Soluble Vitamins And Cofactors R-HSA-196849,Reactome,884,5794
+Metal Ion SLC Transporters R-HSA-425410,Reactome,885,5795
+Metal Sequestration By Antimicrobial Proteins R-HSA-6799990,Reactome,886,5796
+Metalloprotease DUBs R-HSA-5689901,Reactome,887,5797
+Metallothioneins Bind Metals R-HSA-5661231,Reactome,888,5798
+Methionine Salvage Pathway R-HSA-1237112,Reactome,889,5799
+Methylation R-HSA-156581,Reactome,890,5800
+MicroRNA (miRNA) Biogenesis R-HSA-203927,Reactome,891,5801
+Microbial Modulation Of RIPK1-mediated Regulated Necrosis R-HSA-9686347,Reactome,892,5802
+Miro GTPase Cycle R-HSA-9715370,Reactome,894,5803
+Miscellaneous Substrates R-HSA-211958,Reactome,895,5804
+Miscellaneous Transport And Binding Events R-HSA-5223345,Reactome,896,5805
+Mismatch Repair R-HSA-5358508,Reactome,897,5806
+Mismatch Repair (MMR) Directed By MSH2:MSH3 (MutSbeta) R-HSA-5358606,Reactome,898,5807
+Mismatch Repair (MMR) Directed By MSH2:MSH6 (MutSalpha) R-HSA-5358565,Reactome,899,5808
+Mitochondrial Fatty Acid Beta-Oxidation R-HSA-77289,Reactome,900,5809
+Mitochondrial Uncoupling R-HSA-166187,Reactome,901,5810
+Mitochondrial Biogenesis R-HSA-1592230,Reactome,902,5811
+Mitochondrial Calcium Ion Transport R-HSA-8949215,Reactome,903,5812
+Mitochondrial Iron-Sulfur Cluster Biogenesis R-HSA-1362409,Reactome,904,5813
+Mitochondrial Protein Import R-HSA-1268020,Reactome,905,5814
+Mitochondrial tRNA Aminoacylation R-HSA-379726,Reactome,906,5815
+Mitochondrial Translation R-HSA-5368287,Reactome,907,5816
+Mitochondrial Translation Elongation R-HSA-5389840,Reactome,908,5817
+Mitochondrial Translation Initiation R-HSA-5368286,Reactome,909,5818
+Mitochondrial Translation Termination R-HSA-5419276,Reactome,910,5819
+Mitophagy R-HSA-5205647,Reactome,911,5820
+Mitotic Anaphase R-HSA-68882,Reactome,912,5821
+Mitotic G1 Phase And G1/S Transition R-HSA-453279,Reactome,913,5822
+Mitotic G2-G2/M Phases R-HSA-453274,Reactome,914,5823
+Mitotic Metaphase And Anaphase R-HSA-2555396,Reactome,915,5824
+Mitotic Prometaphase R-HSA-68877,Reactome,916,5825
+Mitotic Prophase R-HSA-68875,Reactome,917,5826
+Mitotic Spindle Checkpoint R-HSA-69618,Reactome,918,5827
+Mitotic Telophase/Cytokinesis R-HSA-68884,Reactome,919,5828
+Molecules Associated With Elastic Fibres R-HSA-2129379,Reactome,921,5829
+Molybdenum Cofactor Biosynthesis R-HSA-947581,Reactome,922,5830
+Mucopolysaccharidoses R-HSA-2206281,Reactome,923,5831
+Multifunctional Anion Exchangers R-HSA-427601,Reactome,924,5832
+Muscarinic Acetylcholine Receptors R-HSA-390648,Reactome,925,5833
+Muscle Contraction R-HSA-397014,Reactome,926,5834
+MyD88 Cascade Initiated On Plasma Membrane R-HSA-975871,Reactome,927,5835
+MyD88 Deficiency (TLR2/4) R-HSA-5602498,Reactome,928,5836
+MyD88 Dependent Cascade Initiated On Endosome R-HSA-975155,Reactome,929,5837
+MyD88-independent TLR4 Cascade R-HSA-166166,Reactome,930,5838
+MyD88:MAL(TIRAP) Cascade Initiated On Plasma Membrane R-HSA-166058,Reactome,931,5839
+Myogenesis R-HSA-525793,Reactome,933,5840
+N-Glycan Antennae Elongation R-HSA-975577,Reactome,934,5841
+N-glycan Antennae Elongation In medial/trans-Golgi R-HSA-975576,Reactome,935,5842
+N-glycan Trimming In ER And Calnexin/Calreticulin Cycle R-HSA-532668,Reactome,937,5843
+NADE Modulates Death Signaling R-HSA-205025,Reactome,938,5844
+NCAM Signaling For Neurite Out-Growth R-HSA-375165,Reactome,939,5845
+NCAM1 Interactions R-HSA-419037,Reactome,940,5846
+NEP/NS2 Interacts With Cellular Export Machinery R-HSA-168333,Reactome,941,5847
+NF-kB Activation Thru FADD/RIP-1 Pathway Mediated By Caspase-8 And -10 R-HSA-933543,Reactome,942,5848
+NF-kB Is Activated And Signals Survival R-HSA-209560,Reactome,943,5849
+NGF-independant TRKA Activation R-HSA-187024,Reactome,944,5850
+NGF-stimulated Transcription R-HSA-9031628,Reactome,945,5851
+NIK To Noncanonical NF-kB Signaling R-HSA-5676590,Reactome,946,5852
+NOD1/2 Signaling Pathway R-HSA-168638,Reactome,947,5853
+NOTCH1 Intracellular Domain Regulates Transcription R-HSA-2122947,Reactome,949,5854
+NOTCH2 Activation And Transmission Of Signal To Nucleus R-HSA-2979096,Reactome,950,5855
+NOTCH2 Intracellular Domain Regulates Transcription R-HSA-2197563,Reactome,951,5856
+NOTCH3 Activation And Transmission Of Signal To Nucleus R-HSA-9013507,Reactome,952,5857
+NOTCH3 Intracellular Domain Regulates Transcription R-HSA-9013508,Reactome,953,5858
+NOTCH4 Activation And Transmission Of Signal To Nucleus R-HSA-9013700,Reactome,954,5859
+NOTCH4 Intracellular Domain Regulates Transcription R-HSA-9013695,Reactome,955,5860
+NR1H2 And NR1H3 Regulate Gene Expression Linked To Gluconeogenesis R-HSA-9632974,Reactome,956,5861
+NR1H2 And NR1H3 Regulate Gene Expression Linked To Lipogenesis R-HSA-9029558,Reactome,957,5862
+NR1H2 And NR1H3 Regulate Gene Expression Linked To Triglyceride Lipolysis In Adipose R-HSA-9031528,Reactome,958,5863
+NR1H2 And NR1H3 Regulate Gene Expression To Control Bile Acid Homeostasis R-HSA-9623433,Reactome,959,5864
+NR1H2 And NR1H3 Regulate Gene Expression To Limit Cholesterol Uptake R-HSA-9031525,Reactome,960,5865
+NR1H2 And NR1H3-mediated Signaling R-HSA-9024446,Reactome,961,5866
+NR1H3 And NR1H2 Regulate Gene Expression Linked To Cholesterol Transport And Efflux R-HSA-9029569,Reactome,962,5867
+NRAGE Signals Death Thru JNK R-HSA-193648,Reactome,963,5868
+NRIF Signals Cell Death From Nucleus R-HSA-205043,Reactome,964,5869
+NS1 Mediated Effects On Host Pathways R-HSA-168276,Reactome,965,5870
+Na+/Cl- Dependent Neurotransmitter Transporters R-HSA-442660,Reactome,966,5871
+Nectin/Necl Trans Heterodimerization R-HSA-420597,Reactome,967,5872
+Neddylation R-HSA-8951664,Reactome,968,5873
+Nef Mediated CD4 Down-regulation R-HSA-167590,Reactome,969,5874
+Nef Mediated CD8 Down-regulation R-HSA-182218,Reactome,970,5875
+Nef And Signal Transduction R-HSA-164944,Reactome,971,5876
+Nef Mediated Downregulation Of MHC Class I Complex Cell Surface Expression R-HSA-164940,Reactome,972,5877
+Nef-mediated Downmodulation Of Cell Surface Receptors By Recruitment To Clathrin Adapters R-HSA-164938,Reactome,973,5878
+Negative Epigenetic Regulation Of rRNA Expression R-HSA-5250941,Reactome,974,5879
+Negative Feedback Regulation Of MAPK Pathway R-HSA-5674499,Reactome,975,5880
+Negative Regulation Of FGFR1 Signaling R-HSA-5654726,Reactome,976,5881
+Negative Regulation Of FGFR2 Signaling R-HSA-5654727,Reactome,977,5882
+Negative Regulation Of FGFR3 Signaling R-HSA-5654732,Reactome,978,5883
+Negative Regulation Of FGFR4 Signaling R-HSA-5654733,Reactome,979,5884
+Negative Regulation Of FLT3 R-HSA-9706369,Reactome,980,5885
+Negative Regulation Of MAPK Pathway R-HSA-5675221,Reactome,981,5886
+Negative Regulation Of MET Activity R-HSA-6807004,Reactome,982,5887
+Negative Regulation Of NMDA Receptor-Mediated Neuronal Transmission R-HSA-9617324,Reactome,983,5888
+Negative Regulation Of NOTCH4 Signaling R-HSA-9604323,Reactome,984,5889
+Negative Regulation Of TCF-dependent Signaling By WNT Ligand Antagonists R-HSA-3772470,Reactome,985,5890
+Negative Regulation Of Activity Of TFAP2 (AP-2) Family Transcription Factors R-HSA-8866904,Reactome,986,5891
+Negative Regulation Of PI3K/AKT Network R-HSA-199418,Reactome,987,5892
+Negative Regulators Of DDX58/IFIH1 Signaling R-HSA-936440,Reactome,988,5893
+Nephrin Family Interactions R-HSA-373753,Reactome,989,5894
+Nervous System Development R-HSA-9675108,Reactome,990,5895
+Netrin Mediated Repulsion Signals R-HSA-418886,Reactome,991,5896
+Netrin-1 Signaling R-HSA-373752,Reactome,992,5897
+Neurexins And Neuroligins R-HSA-6794361,Reactome,993,5898
+Neurofascin Interactions R-HSA-447043,Reactome,994,5899
+Neuronal System R-HSA-112316,Reactome,995,5900
+Neurotoxicity Of Clostridium Toxins R-HSA-168799,Reactome,996,5901
+Neurotransmitter Clearance R-HSA-112311,Reactome,997,5902
+Neurotransmitter Receptors And Postsynaptic Signal Transmission R-HSA-112314,Reactome,998,5903
+Neurotransmitter Release Cycle R-HSA-112310,Reactome,999,5904
+Neutrophil Degranulation R-HSA-6798695,Reactome,1000,5905
+Nicotinamide Salvaging R-HSA-197264,Reactome,1001,5906
+Nicotinate Metabolism R-HSA-196807,Reactome,1002,5907
+Nitric Oxide Stimulates Guanylate Cyclase R-HSA-392154,Reactome,1003,5908
+NoRC Negatively Regulates rRNA Expression R-HSA-427413,Reactome,1004,5909
+Non-integrin membrane-ECM Interactions R-HSA-3000171,Reactome,1005,5910
+Noncanonical Activation Of NOTCH3 R-HSA-9017802,Reactome,1006,5911
+Nonhomologous End-Joining (NHEJ) R-HSA-5693571,Reactome,1007,5912
+Nonsense Mediated Decay (NMD) Enhanced By Exon Junction Complex (EJC) R-HSA-975957,Reactome,1008,5913
+Nonsense Mediated Decay (NMD) Independent Of Exon Junction Complex (EJC) R-HSA-975956,Reactome,1009,5914
+Norepinephrine Neurotransmitter Release Cycle R-HSA-181430,Reactome,1010,5915
+Notch-HLH Transcription Pathway R-HSA-350054,Reactome,1011,5916
+Nuclear Envelope (NE) Reassembly R-HSA-2995410,Reactome,1013,5917
+Nuclear Envelope Breakdown R-HSA-2980766,Reactome,1014,5918
+Nuclear Events (Kinase And Transcription Factor Activation) R-HSA-198725,Reactome,1015,5919
+Nuclear Pore Complex (NPC) Disassembly R-HSA-3301854,Reactome,1016,5920
+Nuclear Receptor Transcription Pathway R-HSA-383280,Reactome,1017,5921
+Nuclear Events Mediated By NFE2L2 R-HSA-9759194,Reactome,1018,5922
+Nuclear Events Stimulated By ALK Signaling In Cancer R-HSA-9725371,Reactome,1019,5923
+Nuclear Import Of Rev Protein R-HSA-180746,Reactome,1020,5924
+Nuclear Signaling By ERBB4 R-HSA-1251985,Reactome,1021,5925
+Nucleotide Excision Repair R-HSA-5696398,Reactome,1022,5926
+Nucleotide Biosynthesis R-HSA-8956320,Reactome,1023,5927
+Nucleotide Catabolism R-HSA-8956319,Reactome,1024,5928
+Nucleotide Salvage R-HSA-8956321,Reactome,1025,5929
+"Nucleotide-binding Domain, Leucine Rich Repeat Containing NLR Signaling Pathways R-HSA-168643",Reactome,1026,5930
+Nucleotide-like (Purinergic) Receptors R-HSA-418038,Reactome,1027,5931
+O-glycosylation Of TSR Domain-Containing Proteins R-HSA-5173214,Reactome,1028,5932
+O-linked Glycosylation R-HSA-5173105,Reactome,1029,5933
+O-linked Glycosylation Of Mucins R-HSA-913709,Reactome,1030,5934
+OAS Antiviral Response R-HSA-8983711,Reactome,1031,5935
+Olfactory Signaling Pathway R-HSA-381753,Reactome,1032,5936
+Oncogene Induced Senescence R-HSA-2559585,Reactome,1033,5937
+Oncogenic MAPK Signaling R-HSA-6802957,Reactome,1034,5938
+Opioid Signaling R-HSA-111885,Reactome,1035,5939
+Orc1 Removal From Chromatin R-HSA-68949,Reactome,1037,5940
+Orexin And Neuropeptides FF And QRFP Bind To Their Respective Receptors R-HSA-389397,Reactome,1038,5941
+Organelle Biogenesis And Maintenance R-HSA-1852241,Reactome,1039,5942
+Organic Anion Transport R-HSA-561048,Reactome,1040,5943
+Organic Anion Transporters R-HSA-428643,Reactome,1041,5944
+Organic Cation Transport R-HSA-549127,Reactome,1042,5945
+Organic Cation/Anion/Zwitterion Transport R-HSA-549132,Reactome,1043,5946
+Other Interleukin Signaling R-HSA-449836,Reactome,1044,5947
+Other Semaphorin Interactions R-HSA-416700,Reactome,1045,5948
+Ovarian Tumor Domain Proteases R-HSA-5689896,Reactome,1046,5949
+Oxidative Stress Induced Senescence R-HSA-2559580,Reactome,1047,5950
+Oxygen-dependent Proline Hydroxylation Of Hypoxia-inducible Factor Alpha R-HSA-1234176,Reactome,1048,5951
+P2Y Receptors R-HSA-417957,Reactome,1049,5952
+PCNA-Dependent Long Patch Base Excision Repair R-HSA-5651801,Reactome,1050,5953
+PCP/CE Pathway R-HSA-4086400,Reactome,1051,5954
+PD-1 Signaling R-HSA-389948,Reactome,1052,5955
+PECAM1 Interactions R-HSA-210990,Reactome,1053,5956
+PERK Regulates Gene Expression R-HSA-381042,Reactome,1054,5957
+PI Metabolism R-HSA-1483255,Reactome,1055,5958
+PI-3K cascade:FGFR1 R-HSA-5654689,Reactome,1056,5959
+PI-3K cascade:FGFR2 R-HSA-5654695,Reactome,1057,5960
+PI-3K cascade:FGFR3 R-HSA-5654710,Reactome,1058,5961
+PI-3K cascade:FGFR4 R-HSA-5654720,Reactome,1059,5962
+PI3K Cascade R-HSA-109704,Reactome,1060,5963
+PI3K Events In ERBB2 Signaling R-HSA-1963642,Reactome,1061,5964
+PI3K Events In ERBB4 Signaling R-HSA-1250342,Reactome,1062,5965
+PI3K/AKT Signaling In Cancer R-HSA-2219528,Reactome,1063,5966
+PI3K/AKT Activation R-HSA-198203,Reactome,1064,5967
+PI5P Regulates TP53 Acetylation R-HSA-6811555,Reactome,1065,5968
+"PI5P, PP2A And IER3 Regulate PI3K/AKT Signaling R-HSA-6811558",Reactome,1066,5969
+PINK1-PRKN Mediated Mitophagy R-HSA-5205685,Reactome,1067,5970
+PIP3 Activates AKT Signaling R-HSA-1257604,Reactome,1068,5971
+PIWI-interacting RNA (piRNA) Biogenesis R-HSA-5601884,Reactome,1069,5972
+PKA Activation R-HSA-163615,Reactome,1070,5973
+PKA Activation In Glucagon Signaling R-HSA-164378,Reactome,1071,5974
+PKA-mediated Phosphorylation Of CREB R-HSA-111931,Reactome,1072,5975
+PKA-mediated Phosphorylation Of Key Metabolic Factors R-HSA-163358,Reactome,1073,5976
+PKMTs Methylate Histone Lysines R-HSA-3214841,Reactome,1074,5977
+PLC Beta Mediated Events R-HSA-112043,Reactome,1075,5978
+POLB-Dependent Long Patch Base Excision Repair R-HSA-110362,Reactome,1076,5979
+"POU5F1 (OCT4), SOX2, NANOG Activate Genes Related To Proliferation R-HSA-2892247",Reactome,1077,5980
+"POU5F1 (OCT4), SOX2, NANOG Repress Genes Related To Differentiation R-HSA-2892245",Reactome,1078,5981
+PP2A-mediated Dephosphorylation Of Key Metabolic Factors R-HSA-163767,Reactome,1079,5982
+PPARA Activates Gene Expression R-HSA-1989781,Reactome,1080,5983
+PRC2 Methylates Histones And DNA R-HSA-212300,Reactome,1081,5984
+PTEN Regulation R-HSA-6807070,Reactome,1082,5985
+PTK6 Expression R-HSA-8849473,Reactome,1083,5986
+PTK6 Regulates Cell Cycle R-HSA-8849470,Reactome,1084,5987
+"PTK6 Regulates RHO GTPases, RAS GTPase And MAP Kinases R-HSA-8849471",Reactome,1085,5988
+PTK6 Regulates RTKs And Their Effectors AKT1 And DOK1 R-HSA-8849469,Reactome,1086,5989
+PTK6 Promotes HIF1A Stabilization R-HSA-8857538,Reactome,1087,5990
+Packaging Of Telomere Ends R-HSA-171306,Reactome,1088,5991
+Paracetamol ADME R-HSA-9753281,Reactome,1089,5992
+Paradoxical Activation Of RAF Signaling By Kinase Inactive BRAF R-HSA-6802955,Reactome,1090,5993
+Passive Transport By Aquaporins R-HSA-432047,Reactome,1091,5994
+Pausing And Recovery Of Tat-mediated HIV Elongation R-HSA-167238,Reactome,1092,5995
+Pentose Phosphate Pathway R-HSA-71336,Reactome,1093,5996
+Peptide Chain Elongation R-HSA-156902,Reactome,1094,5997
+Peptide Hormone Biosynthesis R-HSA-209952,Reactome,1095,5998
+Peptide Hormone Metabolism R-HSA-2980736,Reactome,1096,5999
+Peptide Ligand-Binding Receptors R-HSA-375276,Reactome,1097,6000
+Peroxisomal Lipid Metabolism R-HSA-390918,Reactome,1098,6001
+Peroxisomal Protein Import R-HSA-9033241,Reactome,1099,6002
+Pexophagy R-HSA-9664873,Reactome,1100,6003
+Phase 0 - Rapid Depolarisation R-HSA-5576892,Reactome,1101,6004
+Phase 1 - Inactivation Of Fast Na+ Channels R-HSA-5576894,Reactome,1102,6005
+Phase 2 - Plateau Phase R-HSA-5576893,Reactome,1103,6006
+Phase 4 - Resting Membrane Potential R-HSA-5576886,Reactome,1105,6007
+Phase I - Functionalization Of Compounds R-HSA-211945,Reactome,1106,6008
+Phase II - Conjugation Of Compounds R-HSA-156580,Reactome,1107,6009
+Phenylalanine And Tyrosine Metabolism R-HSA-8963691,Reactome,1108,6010
+Phenylalanine Metabolism R-HSA-8964208,Reactome,1109,6011
+Phosphate Bond Hydrolysis By NTPDase Proteins R-HSA-8850843,Reactome,1110,6012
+Phosphate Bond Hydrolysis By NUDT Proteins R-HSA-2393930,Reactome,1111,6013
+Phospholipase C-mediated Cascade: FGFR1 R-HSA-5654219,Reactome,1112,6014
+Phospholipase C-mediated Cascade; FGFR2 R-HSA-5654221,Reactome,1113,6015
+Phospholipase C-mediated Cascade; FGFR3 R-HSA-5654227,Reactome,1114,6016
+Phospholipase C-mediated Cascade; FGFR4 R-HSA-5654228,Reactome,1115,6017
+Phospholipid Metabolism R-HSA-1483257,Reactome,1116,6018
+Phosphorylation Of CD3 And TCR Zeta Chains R-HSA-202427,Reactome,1117,6019
+Phosphorylation Of Emi1 R-HSA-176417,Reactome,1118,6020
+Phosphorylation Of APC/C R-HSA-176412,Reactome,1119,6021
+Physiological Factors R-HSA-5578768,Reactome,1120,6022
+Plasma Lipoprotein Assembly R-HSA-8963898,Reactome,1121,6023
+"Plasma Lipoprotein Assembly, Remodeling, And Clearance R-HSA-174824",Reactome,1122,6024
+Plasma Lipoprotein Clearance R-HSA-8964043,Reactome,1123,6025
+Plasma Lipoprotein Remodeling R-HSA-8963899,Reactome,1124,6026
+Platelet Adhesion To Exposed Collagen R-HSA-75892,Reactome,1125,6027
+Platelet Aggregation (Plug Formation) R-HSA-76009,Reactome,1126,6028
+"Platelet Activation, Signaling And Aggregation R-HSA-76002",Reactome,1127,6029
+Platelet Calcium Homeostasis R-HSA-418360,Reactome,1128,6030
+Platelet Degranulation R-HSA-114608,Reactome,1129,6031
+Platelet Homeostasis R-HSA-418346,Reactome,1130,6032
+Platelet Sensitization By LDL R-HSA-432142,Reactome,1131,6033
+Polo-like Kinase Mediated Events R-HSA-156711,Reactome,1132,6034
+Polymerase Switching On C-strand Of Telomere R-HSA-174411,Reactome,1133,6035
+Positive Epigenetic Regulation Of rRNA Expression R-HSA-5250913,Reactome,1134,6036
+Post NMDA Receptor Activation Events R-HSA-438064,Reactome,1135,6037
+Post-chaperonin Tubulin Folding Pathway R-HSA-389977,Reactome,1136,6038
+Post-transcriptional Silencing By Small RNAs R-HSA-426496,Reactome,1137,6039
+Post-translational Modification: Synthesis Of GPI-anchored Proteins R-HSA-163125,Reactome,1138,6040
+Post-translational Protein Modification R-HSA-597592,Reactome,1139,6041
+Post-translational Protein Phosphorylation R-HSA-8957275,Reactome,1140,6042
+Postmitotic Nuclear Pore Complex (NPC) Reformation R-HSA-9615933,Reactome,1141,6043
+Potassium Channels R-HSA-1296071,Reactome,1142,6044
+Potential Therapeutics For SARS R-HSA-9679191,Reactome,1143,6045
+Pre-NOTCH Expression And Processing R-HSA-1912422,Reactome,1144,6046
+Pre-NOTCH Processing In Golgi R-HSA-1912420,Reactome,1145,6047
+Pre-NOTCH Processing In Endoplasmic Reticulum R-HSA-1912399,Reactome,1146,6048
+Pre-NOTCH Transcription And Translation R-HSA-1912408,Reactome,1147,6049
+Prefoldin Mediated Transfer Of Substrate To CCT/TriC R-HSA-389957,Reactome,1148,6050
+Pregnenolone Biosynthesis R-HSA-196108,Reactome,1149,6051
+Presynaptic Depolarization And Calcium Channel Opening R-HSA-112308,Reactome,1150,6052
+Presynaptic Function Of Kainate Receptors R-HSA-500657,Reactome,1151,6053
+Presynaptic Nicotinic Acetylcholine Receptors R-HSA-622323,Reactome,1152,6054
+Presynaptic Phase Of Homologous DNA Pairing And Strand Exchange R-HSA-5693616,Reactome,1153,6055
+Prevention Of Phagosomal-Lysosomal Fusion R-HSA-9636383,Reactome,1154,6056
+Processing And Activation Of SUMO R-HSA-3215018,Reactome,1155,6057
+Processing Of Capped Intron-Containing Pre-mRNA R-HSA-72203,Reactome,1156,6058
+Processing Of Capped Intronless Pre-mRNA R-HSA-75067,Reactome,1157,6059
+Processing Of DNA Double-Strand Break Ends R-HSA-5693607,Reactome,1158,6060
+Processing Of Intronless Pre-mRNAs R-HSA-77595,Reactome,1159,6061
+Processing Of SMDT1 R-HSA-8949664,Reactome,1160,6062
+Processive Synthesis On C-strand Of Telomere R-HSA-174414,Reactome,1161,6063
+Processive Synthesis On Lagging Strand R-HSA-69183,Reactome,1162,6064
+Programmed Cell Death R-HSA-5357801,Reactome,1163,6065
+Prolactin Receptor Signaling R-HSA-1170546,Reactome,1164,6066
+Prolonged ERK Activation Events R-HSA-169893,Reactome,1165,6067
+Prostacyclin Signaling Thru Prostacyclin Receptor R-HSA-392851,Reactome,1166,6068
+Protein Folding R-HSA-391251,Reactome,1168,6069
+Protein Localization R-HSA-9609507,Reactome,1169,6070
+Protein Methylation R-HSA-8876725,Reactome,1170,6071
+Protein Repair R-HSA-5676934,Reactome,1171,6072
+Protein Ubiquitination R-HSA-8852135,Reactome,1172,6073
+Protein-protein Interactions At Synapses R-HSA-6794362,Reactome,1173,6074
+Purine Catabolism R-HSA-74259,Reactome,1175,6075
+Purine Ribonucleoside Monophosphate Biosynthesis R-HSA-73817,Reactome,1176,6076
+Purine Salvage R-HSA-74217,Reactome,1177,6077
+Pyrimidine Catabolism R-HSA-73621,Reactome,1178,6078
+Pyrimidine Salvage R-HSA-73614,Reactome,1179,6079
+Pyroptosis R-HSA-5620971,Reactome,1180,6080
+Pyruvate Metabolism R-HSA-70268,Reactome,1181,6081
+Pyruvate Metabolism And Citric Acid (TCA) Cycle R-HSA-71406,Reactome,1182,6082
+RA Biosynthesis Pathway R-HSA-5365859,Reactome,1183,6083
+RAB GEFs Exchange GTP For GDP On RABs R-HSA-8876198,Reactome,1184,6084
+RAB Geranylgeranylation R-HSA-8873719,Reactome,1185,6085
+RAC1 GTPase Cycle R-HSA-9013149,Reactome,1186,6086
+RAC2 GTPase Cycle R-HSA-9013404,Reactome,1187,6087
+RAC3 GTPase Cycle R-HSA-9013423,Reactome,1188,6088
+RAF Activation R-HSA-5673000,Reactome,1189,6089
+RAF-independent MAPK1/3 Activation R-HSA-112409,Reactome,1190,6090
+RAF/MAP Kinase Cascade R-HSA-5673001,Reactome,1191,6091
+RAS Processing R-HSA-9648002,Reactome,1192,6092
+RAS Signaling Downstream Of NF1 Loss-Of-Function Variants R-HSA-6802953,Reactome,1193,6093
+RET Signaling R-HSA-8853659,Reactome,1194,6094
+RHO GTPase Effectors R-HSA-195258,Reactome,1195,6095
+RHO GTPase Cycle R-HSA-9012999,Reactome,1196,6096
+RHO GTPases Activate Formins R-HSA-5663220,Reactome,1197,6097
+RHO GTPases Activate NADPH Oxidases R-HSA-5668599,Reactome,1198,6098
+RHO GTPases Activate ROCKs R-HSA-5627117,Reactome,1199,6099
+RHO GTPases Activate Rhotekin And Rhophilins R-HSA-5666185,Reactome,1200,6100
+RHO GTPases Activate WASPs And WAVEs R-HSA-5663213,Reactome,1201,6101
+RHO GTPases Activate CIT R-HSA-5625900,Reactome,1202,6102
+RHO GTPases Activate IQGAPs R-HSA-5626467,Reactome,1203,6103
+RHO GTPases Activate KTN1 R-HSA-5625970,Reactome,1204,6104
+RHO GTPases Activate PAKs R-HSA-5627123,Reactome,1205,6105
+RHO GTPases Activate PKNs R-HSA-5625740,Reactome,1206,6106
+RHOA GTPase Cycle R-HSA-8980692,Reactome,1207,6107
+RHOB GTPase Cycle R-HSA-9013026,Reactome,1208,6108
+RHOBTB GTPase Cycle R-HSA-9706574,Reactome,1209,6109
+RHOBTB1 GTPase Cycle R-HSA-9013422,Reactome,1210,6110
+RHOBTB2 GTPase Cycle R-HSA-9013418,Reactome,1211,6111
+RHOBTB3 ATPase Cycle R-HSA-9706019,Reactome,1212,6112
+RHOC GTPase Cycle R-HSA-9013106,Reactome,1213,6113
+RHOD GTPase Cycle R-HSA-9013405,Reactome,1214,6114
+RHOF GTPase Cycle R-HSA-9035034,Reactome,1215,6115
+RHOG GTPase Cycle R-HSA-9013408,Reactome,1216,6116
+RHOH GTPase Cycle R-HSA-9013407,Reactome,1217,6117
+RHOJ GTPase Cycle R-HSA-9013409,Reactome,1218,6118
+RHOQ GTPase Cycle R-HSA-9013406,Reactome,1219,6119
+RHOT1 GTPase Cycle R-HSA-9013425,Reactome,1220,6120
+RHOT2 GTPase Cycle R-HSA-9013419,Reactome,1221,6121
+RHOU GTPase Cycle R-HSA-9013420,Reactome,1222,6122
+RHOV GTPase Cycle R-HSA-9013424,Reactome,1223,6123
+RIP-mediated NFkB Activation Via ZBP1 R-HSA-1810476,Reactome,1224,6124
+RIPK1-mediated Regulated Necrosis R-HSA-5213460,Reactome,1225,6125
+RMTs Methylate Histone Arginines R-HSA-3214858,Reactome,1226,6126
+RNA Pol II CTD Phosphorylation And Interaction With CE R-HSA-77075,Reactome,1227,6127
+RNA Polymerase I Promoter Clearance R-HSA-73854,Reactome,1228,6128
+RNA Polymerase I Promoter Escape R-HSA-73772,Reactome,1229,6129
+RNA Polymerase I Promoter Opening R-HSA-73728,Reactome,1230,6130
+RNA Polymerase I Transcription Initiation R-HSA-73762,Reactome,1231,6131
+RNA Polymerase I Transcription R-HSA-73864,Reactome,1232,6132
+RNA Polymerase I Transcription Termination R-HSA-73863,Reactome,1233,6133
+RNA Polymerase II Pre-transcription Events R-HSA-674695,Reactome,1234,6134
+RNA Polymerase II Transcription R-HSA-73857,Reactome,1235,6135
+RNA Polymerase II Transcription Termination R-HSA-73856,Reactome,1236,6136
+RNA Polymerase III Abortive And Retractive Initiation R-HSA-749476,Reactome,1237,6137
+RNA Polymerase III Chain Elongation R-HSA-73780,Reactome,1238,6138
+RNA Polymerase III Transcription Initiation From Type 1 Promoter R-HSA-76061,Reactome,1239,6139
+RNA Polymerase III Transcription Initiation From Type 2 Promoter R-HSA-76066,Reactome,1240,6140
+RNA Polymerase III Transcription Initiation From Type 3 Promoter R-HSA-76071,Reactome,1241,6141
+RNA Polymerase III Transcription Initiation R-HSA-76046,Reactome,1242,6142
+RNA Polymerase III Transcription Termination R-HSA-73980,Reactome,1243,6143
+RNA Polymerase II Transcribes snRNA Genes R-HSA-6807505,Reactome,1244,6144
+RND1 GTPase Cycle R-HSA-9696273,Reactome,1245,6145
+RND2 GTPase Cycle R-HSA-9696270,Reactome,1246,6146
+RND3 GTPase Cycle R-HSA-9696264,Reactome,1247,6147
+ROBO Receptors Bind AKAP5 R-HSA-9010642,Reactome,1248,6148
+RORA Activates Gene Expression R-HSA-1368082,Reactome,1249,6149
+ROS And RNS Production In Phagocytes R-HSA-1222556,Reactome,1250,6150
+RSK Activation R-HSA-444257,Reactome,1251,6151
+RUNX1 And FOXP3 Control Development Of Regulatory T Lymphocytes (Tregs) R-HSA-8877330,Reactome,1252,6152
+RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243,Reactome,1253,6153
+RUNX1 Regulates Estrogen Receptor Mediated Transcription R-HSA-8931987,Reactome,1254,6154
+RUNX1 Regulates Expression Of Components Of Tight Junctions R-HSA-8935964,Reactome,1255,6155
+RUNX1 Regulates Genes Involved In Megakaryocyte Differentiation And Platelet Function R-HSA-8936459,Reactome,1256,6156
+RUNX1 Regulates Transcription Of Genes Involved In BCR Signaling R-HSA-8939245,Reactome,1257,6157
+RUNX1 Regulates Transcription Of Genes Involved In WNT Signaling R-HSA-8939256,Reactome,1258,6158
+RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of HSCs R-HSA-8939236,Reactome,1259,6159
+RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of Keratinocytes R-HSA-8939242,Reactome,1260,6160
+RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of Myeloid Cells R-HSA-8939246,Reactome,1261,6161
+RUNX1 Regulates Transcription Of Genes Involved In Interleukin Signaling R-HSA-8939247,Reactome,1262,6162
+RUNX2 Regulates Bone Development R-HSA-8941326,Reactome,1263,6163
+RUNX2 Regulates Chondrocyte Maturation R-HSA-8941284,Reactome,1264,6164
+RUNX2 Regulates Genes Involved In Cell Migration R-HSA-8941332,Reactome,1265,6165
+RUNX2 Regulates Osteoblast Differentiation R-HSA-8940973,Reactome,1266,6166
+RUNX3 Regulates Immune Response And Cell Migration R-HSA-8949275,Reactome,1267,6167
+RUNX3 Regulates BCL2L11 (BIM) Transcription R-HSA-8952158,Reactome,1268,6168
+RUNX3 Regulates CDKN1A Transcription R-HSA-8941855,Reactome,1269,6169
+RUNX3 Regulates NOTCH Signaling R-HSA-8941856,Reactome,1270,6170
+RUNX3 Regulates WNT Signaling R-HSA-8951430,Reactome,1271,6171
+RUNX3 Regulates YAP1-mediated Transcription R-HSA-8951671,Reactome,1272,6172
+RUNX3 Regulates p14-ARF R-HSA-8951936,Reactome,1273,6173
+Rab Regulation Of Trafficking R-HSA-9007101,Reactome,1274,6174
+Rap1 Signaling R-HSA-392517,Reactome,1275,6175
+Ras Activation Upon Ca2+ Influx Thru NMDA Receptor R-HSA-442982,Reactome,1276,6176
+Receptor Mediated Mitophagy R-HSA-8934903,Reactome,1278,6177
+Receptor-type Tyrosine-Protein Phosphatases R-HSA-388844,Reactome,1279,6178
+Recognition Of DNA Damage By PCNA-containing Replication Complex R-HSA-110314,Reactome,1280,6179
+Recruitment And ATM-mediated Phosphorylation Of Repair And Signal Proteins At DNA Double Strand Breaks R-HSA-5693565,Reactome,1281,6180
+Recruitment Of NuMA To Mitotic Centrosomes R-HSA-380320,Reactome,1282,6181
+Recycling Of Bile Acids And Salts R-HSA-159418,Reactome,1283,6182
+Recycling Of eIF2:GDP R-HSA-72731,Reactome,1284,6183
+Recycling Pathway Of L1 R-HSA-437239,Reactome,1285,6184
+Reduction Of Cytosolic Ca++ Levels R-HSA-418359,Reactome,1286,6185
+Regulated Necrosis R-HSA-5218859,Reactome,1288,6186
+Regulated Proteolysis Of p75NTR R-HSA-193692,Reactome,1289,6187
+Regulation Of APC/C Activators Between G1/S And Early Anaphase R-HSA-176408,Reactome,1290,6188
+Regulation Of Apoptosis R-HSA-169911,Reactome,1291,6189
+Regulation Of BACH1 Activity R-HSA-9708530,Reactome,1292,6190
+Regulation Of Complement Cascade R-HSA-977606,Reactome,1293,6191
+Regulation Of FOXO Transcriptional Activity By Acetylation R-HSA-9617629,Reactome,1294,6192
+Regulation Of FZD By Ubiquitination R-HSA-4641263,Reactome,1295,6193
+Regulation Of HMOX1 Expression And Activity R-HSA-9707587,Reactome,1296,6194
+Regulation Of HSF1-mediated Heat Shock Response R-HSA-3371453,Reactome,1297,6195
+Regulation Of IFNA/IFNB Signaling R-HSA-912694,Reactome,1298,6196
+Regulation Of IFNG Signaling R-HSA-877312,Reactome,1299,6197
+Regulation Of IGF Transport And Uptake By IGFBPs R-HSA-381426,Reactome,1300,6198
+Regulation Of KIT Signaling R-HSA-1433559,Reactome,1301,6199
+Regulation Of MECP2 Expression And Activity R-HSA-9022692,Reactome,1302,6200
+Regulation Of NF-kappa B Signaling R-HSA-9758274,Reactome,1303,6201
+Regulation Of PLK1 Activity At G2/M Transition R-HSA-2565942,Reactome,1304,6202
+Regulation Of PTEN Gene Transcription R-HSA-8943724,Reactome,1305,6203
+Regulation Of PTEN Localization R-HSA-8948747,Reactome,1306,6204
+Regulation Of PTEN mRNA Translation R-HSA-8943723,Reactome,1307,6205
+Regulation Of PTEN Stability And Activity R-HSA-8948751,Reactome,1308,6206
+Regulation Of RAS By GAPs R-HSA-5658442,Reactome,1309,6207
+Regulation Of RUNX1 Expression And Activity R-HSA-8934593,Reactome,1310,6208
+Regulation Of RUNX2 Expression And Activity R-HSA-8939902,Reactome,1311,6209
+Regulation Of RUNX3 Expression And Activity R-HSA-8941858,Reactome,1312,6210
+Regulation Of TLR By Endogenous Ligand R-HSA-5686938,Reactome,1313,6211
+Regulation Of TNFR1 Signaling R-HSA-5357905,Reactome,1314,6212
+Regulation Of TP53 Activity R-HSA-5633007,Reactome,1315,6213
+Regulation Of TP53 Activity Thru Acetylation R-HSA-6804758,Reactome,1316,6214
+Regulation Of TP53 Activity Thru Association With Co-factors R-HSA-6804759,Reactome,1317,6215
+Regulation Of TP53 Activity Thru Methylation R-HSA-6804760,Reactome,1318,6216
+Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756,Reactome,1319,6217
+Regulation Of TP53 Degradation R-HSA-6804757,Reactome,1320,6218
+Regulation Of TP53 Expression And Degradation R-HSA-6806003,Reactome,1321,6219
+Regulation Of Actin Dynamics For Phagocytic Cup Formation R-HSA-2029482,Reactome,1322,6220
+Regulation Of Activated PAK-2p34 By Proteasome Mediated Degradation R-HSA-211733,Reactome,1323,6221
+Regulation Of Beta-Cell Development R-HSA-186712,Reactome,1324,6222
+Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829,Reactome,1325,6223
+Regulation Of Commissural Axon Pathfinding By SLIT And ROBO R-HSA-428542,Reactome,1326,6224
+Regulation Of Cytoskeletal Remodeling And Cell Spreading By IPP Complex Components R-HSA-446388,Reactome,1327,6225
+Regulation Of Expression Of SLITs And ROBOs R-HSA-9010553,Reactome,1328,6226
+Regulation Of Gene Expression By Hypoxia-inducible Factor R-HSA-1234158,Reactome,1329,6227
+Regulation Of Gene Expression In Beta Cells R-HSA-210745,Reactome,1330,6228
+Regulation Of Gene Expression In Early Pancreatic Precursor Cells R-HSA-210747,Reactome,1331,6229
+Regulation Of Gene Expression In Late Stage (Branching Morphogenesis) Pancreatic Bud Precursor Cells R-HSA-210744,Reactome,1333,6230
+"Regulation Of Glycolysis By Fructose 2,6-Bisphosphate Metabolism R-HSA-9634600",Reactome,1334,6231
+Regulation Of Innate Immune Responses To Cytosolic DNA R-HSA-3134975,Reactome,1335,6232
+Regulation Of Insulin Secretion R-HSA-422356,Reactome,1336,6233
+Regulation Of Lipid Metabolism By PPARalpha R-HSA-400206,Reactome,1337,6234
+Regulation Of Localization Of FOXO Transcription Factors R-HSA-9614399,Reactome,1338,6235
+Regulation Of mRNA Stability By Proteins That Bind AU-rich Elements R-HSA-450531,Reactome,1339,6236
+Regulation Of Necroptotic Cell Death R-HSA-5675482,Reactome,1340,6237
+Regulation Of Ornithine Decarboxylase (ODC) R-HSA-350562,Reactome,1341,6238
+Regulation Of Pyruvate Dehydrogenase (PDH) Complex R-HSA-204174,Reactome,1342,6239
+Regulation Of Signaling By CBL R-HSA-912631,Reactome,1343,6240
+Regulation Of Signaling By NODAL R-HSA-1433617,Reactome,1344,6241
+Relaxin Receptors R-HSA-444821,Reactome,1345,6242
+Release Of Hh-Np From Secreting Cell R-HSA-5362798,Reactome,1346,6243
+Release Of Apoptotic Factors From Mitochondria R-HSA-111457,Reactome,1347,6244
+Removal Of Aminoterminal Propeptides From Gamma-Carboxylated Proteins R-HSA-159782,Reactome,1348,6245
+Removal Of Flap Intermediate R-HSA-69166,Reactome,1349,6246
+Removal Of Flap Intermediate From C-strand R-HSA-174437,Reactome,1350,6247
+Repression Of WNT Target Genes R-HSA-4641265,Reactome,1351,6248
+Reproduction R-HSA-1474165,Reactome,1352,6249
+Resolution Of AP Sites Via Multiple-Nucleotide Patch Replacement Pathway R-HSA-110373,Reactome,1353,6250
+Resolution Of Abasic Sites (AP Sites) R-HSA-73933,Reactome,1354,6251
+Resolution Of D-Loop Structures R-HSA-5693537,Reactome,1355,6252
+Resolution Of D-loop Structures Thru Holliday Junction Intermediates R-HSA-5693568,Reactome,1356,6253
+Resolution Of D-loop Structures Thru Synthesis-Dependent Strand Annealing (SDSA) R-HSA-5693554,Reactome,1357,6254
+Resolution Of Sister Chromatid Cohesion R-HSA-2500257,Reactome,1358,6255
+Respiratory Electron Transport R-HSA-611105,Reactome,1359,6256
+"Respiratory Electron Transport, ATP Synthesis By Chemiosmotic Coupling, Heat Production By Uncoupling Proteins R-HSA-163200",Reactome,1360,6257
+Response Of EIF2AK1 (HRI) To Heme Deficiency R-HSA-9648895,Reactome,1361,6258
+Response Of EIF2AK4 (GCN2) To Amino Acid Deficiency R-HSA-9633012,Reactome,1362,6259
+Response Of Mtb To Phagocytosis R-HSA-9637690,Reactome,1363,6260
+Response To Elevated Platelet Cytosolic Ca2+ R-HSA-76005,Reactome,1364,6261
+Response To Metal Ions R-HSA-5660526,Reactome,1365,6262
+Retinoid Metabolism And Transport R-HSA-975634,Reactome,1366,6263
+Retrograde Neurotrophin Signaling R-HSA-177504,Reactome,1367,6264
+Retrograde Transport At Trans-Golgi-Network R-HSA-6811440,Reactome,1368,6265
+Rev-mediated Nuclear Export Of HIV RNA R-HSA-165054,Reactome,1369,6266
+Reversal Of Alkylation Damage By DNA Dioxygenases R-HSA-73943,Reactome,1370,6267
+Reversible Hydration Of Carbon Dioxide R-HSA-1475029,Reactome,1371,6268
+Ribosomal Scanning And Start Codon Recognition R-HSA-72702,Reactome,1372,6269
+Role Of ABL In ROBO-SLIT Signaling R-HSA-428890,Reactome,1373,6270
+Role Of LAT2/NTAL/LAB On Calcium Mobilization R-HSA-2730905,Reactome,1374,6271
+Role Of Phospholipids In Phagocytosis R-HSA-2029485,Reactome,1375,6272
+Role Of Second Messengers In Netrin-1 Signaling R-HSA-418890,Reactome,1376,6273
+S Phase R-HSA-69242,Reactome,1377,6274
+SARS-CoV Infections R-HSA-9679506,Reactome,1378,6275
+SARS-CoV-1 Genome Replication And Transcription R-HSA-9679514,Reactome,1379,6276
+SARS-CoV-1 Infection R-HSA-9678108,Reactome,1380,6277
+SARS-CoV-2 Genome Replication And Transcription R-HSA-9694682,Reactome,1381,6278
+SARS-CoV-2 Infection R-HSA-9694516,Reactome,1382,6279
+SARS-CoV-2 Activates/Modulates Innate And Adaptive Immune Responses R-HSA-9705671,Reactome,1383,6280
+SARS-CoV-2 Modulates Autophagy R-HSA-9754560,Reactome,1384,6281
+SARS-CoV-2 Modulates Host Translation Machinery R-HSA-9754678,Reactome,1385,6282
+SARS-CoV-2 Targets Host Intracellular Signaling And Regulatory Pathways R-HSA-9755779,Reactome,1387,6283
+SARS-CoV-2-host Interactions R-HSA-9705683,Reactome,1388,6284
+SCF(Skp2)-mediated Degradation Of P27/P21 R-HSA-187577,Reactome,1389,6285
+SCF-beta-TrCP Mediated Degradation Of Emi1 R-HSA-174113,Reactome,1390,6286
+SEMA3A-Plexin Repulsion Signaling By Inhibiting Integrin Adhesion R-HSA-399955,Reactome,1391,6287
+SHC-mediated cascade:FGFR1 R-HSA-5654688,Reactome,1392,6288
+SHC-mediated cascade:FGFR2 R-HSA-5654699,Reactome,1393,6289
+SHC-mediated cascade:FGFR3 R-HSA-5654704,Reactome,1394,6290
+SHC-mediated cascade:FGFR4 R-HSA-5654719,Reactome,1395,6291
+SHC-related Events Triggered By IGF1R R-HSA-2428933,Reactome,1396,6292
+SHC1 Events In EGFR Signaling R-HSA-180336,Reactome,1397,6293
+SHC1 Events In ERBB2 Signaling R-HSA-1250196,Reactome,1398,6294
+SHC1 Events In ERBB4 Signaling R-HSA-1250347,Reactome,1399,6295
+SIRT1 Negatively Regulates rRNA Expression R-HSA-427359,Reactome,1400,6296
+SLBP Dependent Processing Of Replication-Dependent Histone Pre-mRNAs R-HSA-77588,Reactome,1401,6297
+SLBP Independent Processing Of Histone Pre-mRNAs R-HSA-111367,Reactome,1402,6298
+SLC Transporter Disorders R-HSA-5619102,Reactome,1403,6299
+SLC-mediated Transmembrane Transport R-HSA-425407,Reactome,1404,6300
+SMAC (DIABLO) Binds To IAPs R-HSA-111463,Reactome,1405,6301
+"SMAC, XIAP-regulated Apoptotic Response R-HSA-111469",Reactome,1406,6302
+SMAD2/3 Phosphorylation Motif Mutants In Cancer R-HSA-3304356,Reactome,1407,6303
+SMAD2/SMAD3:SMAD4 Heterotrimer Regulates Transcription R-HSA-2173796,Reactome,1408,6304
+SOS-mediated Signaling R-HSA-112412,Reactome,1409,6305
+SRP-dependent Cotranslational Protein Targeting To Membrane R-HSA-1799339,Reactome,1410,6306
+STAT3 Nuclear Events Downstream Of ALK Signaling R-HSA-9701898,Reactome,1411,6307
+STAT5 Activation R-HSA-9645135,Reactome,1412,6308
+STAT5 Activation Downstream Of FLT3 ITD Mutants R-HSA-9702518,Reactome,1413,6309
+STING Mediated Induction Of Host Immune Responses R-HSA-1834941,Reactome,1414,6310
+SUMO E3 Ligases SUMOylate Target Proteins R-HSA-3108232,Reactome,1415,6311
+SUMO Is Proteolytically Processed R-HSA-3065679,Reactome,1416,6312
+"SUMO Is Transferred From E1 To E2 (UBE2I, UBC9) R-HSA-3065678",Reactome,1417,6313
+SUMOylation R-HSA-2990846,Reactome,1418,6314
+SUMOylation Of DNA Damage Response And Repair Proteins R-HSA-3108214,Reactome,1419,6315
+SUMOylation Of DNA Methylation Proteins R-HSA-4655427,Reactome,1420,6316
+SUMOylation Of DNA Replication Proteins R-HSA-4615885,Reactome,1421,6317
+SUMOylation Of RNA Binding Proteins R-HSA-4570464,Reactome,1422,6318
+SUMOylation Of SUMOylation Proteins R-HSA-4085377,Reactome,1423,6319
+SUMOylation Of Chromatin Organization Proteins R-HSA-4551638,Reactome,1424,6320
+SUMOylation Of Immune Response Proteins R-HSA-4755510,Reactome,1425,6321
+SUMOylation Of Intracellular Receptors R-HSA-4090294,Reactome,1426,6322
+SUMOylation Of Transcription Cofactors R-HSA-3899300,Reactome,1427,6323
+SUMOylation Of Transcription Factors R-HSA-3232118,Reactome,1428,6324
+SUMOylation Of Ubiquitinylation Proteins R-HSA-3232142,Reactome,1429,6325
+Scavenging By Class A Receptors R-HSA-3000480,Reactome,1430,6326
+Scavenging By Class B Receptors R-HSA-3000471,Reactome,1431,6327
+Scavenging By Class F Receptors R-HSA-3000484,Reactome,1432,6328
+Scavenging Of Heme From Plasma R-HSA-2168880,Reactome,1433,6329
+Sealing Of Nuclear Envelope (NE) By ESCRT-III R-HSA-9668328,Reactome,1434,6330
+Selective Autophagy R-HSA-9663891,Reactome,1435,6331
+Selenoamino Acid Metabolism R-HSA-2408522,Reactome,1436,6332
+Selenocysteine Synthesis R-HSA-2408557,Reactome,1437,6333
+Sema3A PAK Dependent Axon Repulsion R-HSA-399954,Reactome,1438,6334
+Sema4D In Semaphorin Signaling R-HSA-400685,Reactome,1439,6335
+Sema4D Induced Cell Migration And Growth-Cone Collapse R-HSA-416572,Reactome,1440,6336
+Sema4D Mediated Inhibition Of Cell Attachment And Migration R-HSA-416550,Reactome,1441,6337
+Semaphorin Interactions R-HSA-373755,Reactome,1442,6338
+Senescence-Associated Secretory Phenotype (SASP) R-HSA-2559582,Reactome,1443,6339
+Sensing Of DNA Double Strand Breaks R-HSA-5693548,Reactome,1444,6340
+Sensory Perception R-HSA-9709957,Reactome,1445,6341
+Sensory Perception Of Salty Taste R-HSA-9730628,Reactome,1446,6342
+"Sensory Perception Of Sweet, Bitter, And Umami (Glutamate) Taste R-HSA-9717207",Reactome,1447,6343
+Sensory Perception Of Taste R-HSA-9717189,Reactome,1448,6344
+Sensory Processing Of Sound R-HSA-9659379,Reactome,1449,6345
+Sensory Processing Of Sound By Inner Hair Cells Of Cochlea R-HSA-9662360,Reactome,1450,6346
+Sensory Processing Of Sound By Outer Hair Cells Of Cochlea R-HSA-9662361,Reactome,1451,6347
+Separation Of Sister Chromatids R-HSA-2467813,Reactome,1452,6348
+Serine Biosynthesis R-HSA-977347,Reactome,1453,6349
+Serotonin Neurotransmitter Release Cycle R-HSA-181429,Reactome,1454,6350
+Serotonin And Melatonin Biosynthesis R-HSA-209931,Reactome,1455,6351
+Serotonin Receptors R-HSA-390666,Reactome,1456,6352
+Sialic Acid Metabolism R-HSA-4085001,Reactome,1457,6353
+Signal Amplification R-HSA-392518,Reactome,1458,6354
+Signal Attenuation R-HSA-74749,Reactome,1459,6355
+Signal Regulatory Protein Family Interactions R-HSA-391160,Reactome,1460,6356
+Signal Transduction By L1 R-HSA-445144,Reactome,1461,6357
+Signaling By ALK R-HSA-201556,Reactome,1462,6358
+Signaling By ALK Fusions And Activated Point Mutants R-HSA-9725370,Reactome,1463,6359
+Signaling By Activin R-HSA-1502540,Reactome,1464,6360
+Signaling By BMP R-HSA-201451,Reactome,1465,6361
+Signaling By BRAF And RAF1 Fusions R-HSA-6802952,Reactome,1466,6362
+Signaling By CSF3 (G-CSF) R-HSA-9674555,Reactome,1467,6363
+Signaling By EGFR R-HSA-177929,Reactome,1468,6364
+Signaling By EGFR In Cancer R-HSA-1643713,Reactome,1469,6365
+Signaling By ERBB2 ECD Mutants R-HSA-9665348,Reactome,1470,6366
+Signaling By ERBB2 KD Mutants R-HSA-9664565,Reactome,1471,6367
+Signaling By ERBB2 R-HSA-1227986,Reactome,1472,6368
+Signaling By ERBB2 TMD/JMD Mutants R-HSA-9665686,Reactome,1473,6369
+Signaling By ERBB2 In Cancer R-HSA-1227990,Reactome,1474,6370
+Signaling By ERBB4 R-HSA-1236394,Reactome,1475,6371
+Signaling By Erythropoietin R-HSA-9006335,Reactome,1476,6372
+Signaling By FGFR R-HSA-190236,Reactome,1477,6373
+Signaling By FGFR In Disease R-HSA-1226099,Reactome,1478,6374
+Signaling By FGFR1 R-HSA-5654736,Reactome,1479,6375
+Signaling By FGFR1 In Disease R-HSA-5655302,Reactome,1480,6376
+Signaling By FGFR2 IIIa TM R-HSA-8851708,Reactome,1481,6377
+Signaling By FGFR2 R-HSA-5654738,Reactome,1482,6378
+Signaling By FGFR2 In Disease R-HSA-5655253,Reactome,1483,6379
+Signaling By FGFR3 R-HSA-5654741,Reactome,1484,6380
+Signaling By FGFR3 In Disease R-HSA-5655332,Reactome,1485,6381
+Signaling By FGFR4 R-HSA-5654743,Reactome,1486,6382
+Signaling By FGFR4 In Disease R-HSA-5655291,Reactome,1487,6383
+Signaling By FLT3 ITD And TKD Mutants R-HSA-9703648,Reactome,1488,6384
+Signaling By FLT3 Fusion Proteins R-HSA-9703465,Reactome,1489,6385
+Signaling By GPCR R-HSA-372790,Reactome,1490,6386
+Signaling By Hedgehog R-HSA-5358351,Reactome,1491,6387
+Signaling By Hippo R-HSA-2028269,Reactome,1492,6388
+Signaling By Insulin Receptor R-HSA-74752,Reactome,1493,6389
+Signaling By Interleukins R-HSA-449147,Reactome,1494,6390
+Signaling By KIT In Disease R-HSA-9669938,Reactome,1495,6391
+Signaling By LRP5 Mutants R-HSA-5339717,Reactome,1496,6392
+Signaling By Leptin R-HSA-2586552,Reactome,1497,6393
+Signaling By MAPK Mutants R-HSA-9652817,Reactome,1498,6394
+Signaling By MET R-HSA-6806834,Reactome,1499,6395
+Signaling By MST1 R-HSA-8852405,Reactome,1500,6396
+Signaling By NODAL R-HSA-1181150,Reactome,1501,6397
+Signaling By NOTCH R-HSA-157118,Reactome,1502,6398
+Signaling By NOTCH1 R-HSA-1980143,Reactome,1503,6399
+Signaling By NOTCH2 R-HSA-1980145,Reactome,1504,6400
+Signaling By NOTCH3 R-HSA-9012852,Reactome,1505,6401
+Signaling By NOTCH4 R-HSA-9013694,Reactome,1506,6402
+Signaling By NTRK1 (TRKA) R-HSA-187037,Reactome,1507,6403
+Signaling By NTRK2 (TRKB) R-HSA-9006115,Reactome,1508,6404
+Signaling By NTRK3 (TRKC) R-HSA-9034015,Reactome,1509,6405
+Signaling By NTRKs R-HSA-166520,Reactome,1510,6406
+Signaling By Non-Receptor Tyrosine Kinases R-HSA-9006927,Reactome,1511,6407
+Signaling By Nuclear Receptors R-HSA-9006931,Reactome,1512,6408
+Signaling By PDGF R-HSA-186797,Reactome,1513,6409
+Signaling By PDGFR In Disease R-HSA-9671555,Reactome,1514,6410
+Signaling By PDGFRA Extracellular Domain Mutants R-HSA-9673770,Reactome,1515,6411
+Signaling By RAF1 Mutants R-HSA-9656223,Reactome,1516,6412
+Signaling By RNF43 Mutants R-HSA-5340588,Reactome,1517,6413
+Signaling By ROBO Receptors R-HSA-376176,Reactome,1518,6414
+Signaling By Receptor Tyrosine Kinases R-HSA-9006934,Reactome,1519,6415
+Signaling By Retinoic Acid R-HSA-5362517,Reactome,1520,6416
+Signaling By Rho GTPases R-HSA-194315,Reactome,1521,6417
+"Signaling By Rho GTPases, Miro GTPases And RHOBTB3 R-HSA-9716542",Reactome,1522,6418
+Signaling By SCF-KIT R-HSA-1433557,Reactome,1523,6419
+Signaling By TGF-beta Receptor Complex R-HSA-170834,Reactome,1524,6420
+Signaling By TGF-beta Receptor Complex In Cancer R-HSA-3304351,Reactome,1525,6421
+Signaling By TGFB Family Members R-HSA-9006936,Reactome,1526,6422
+Signaling By Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R) R-HSA-2404192,Reactome,1527,6423
+Signaling By VEGF R-HSA-194138,Reactome,1528,6424
+Signaling By WNT R-HSA-195721,Reactome,1529,6425
+Signaling By WNT In Cancer R-HSA-4791275,Reactome,1530,6426
+Signaling By Activated Point Mutants Of FGFR1 R-HSA-1839122,Reactome,1531,6427
+Signaling By Cytosolic FGFR1 Fusion Mutants R-HSA-1839117,Reactome,1532,6428
+Signaling By High-Kinase Activity BRAF Mutants R-HSA-6802948,Reactome,1533,6429
+Signaling By Membrane-Tethered Fusions Of PDGFRA Or PDGFRB R-HSA-9673768,Reactome,1534,6430
+Signaling By B Cell Receptor (BCR) R-HSA-983705,Reactome,1535,6431
+Signaling To ERKs R-HSA-187687,Reactome,1536,6432
+Signaling To RAS R-HSA-167044,Reactome,1537,6433
+Signaling To P38 Via RIT And RIN R-HSA-187706,Reactome,1538,6434
+Small Interfering RNA (siRNA) Biogenesis R-HSA-426486,Reactome,1539,6435
+Smooth Muscle Contraction R-HSA-445355,Reactome,1540,6436
+Sodium/Calcium Exchangers R-HSA-425561,Reactome,1543,6437
+Sodium/Proton Exchangers R-HSA-425986,Reactome,1544,6438
+Sperm Motility And Taxes R-HSA-1300642,Reactome,1545,6439
+Sphingolipid De Novo Biosynthesis R-HSA-1660661,Reactome,1546,6440
+Sphingolipid Metabolism R-HSA-428157,Reactome,1547,6441
+Spry Regulation Of FGF Signaling R-HSA-1295596,Reactome,1548,6442
+Stabilization Of P53 R-HSA-69541,Reactome,1549,6443
+Stimuli-sensing Channels R-HSA-2672351,Reactome,1550,6444
+Striated Muscle Contraction R-HSA-390522,Reactome,1551,6445
+Sulfide Oxidation To Sulfate R-HSA-1614517,Reactome,1552,6446
+Sulfur Amino Acid Metabolism R-HSA-1614635,Reactome,1553,6447
+Suppression Of Apoptosis R-HSA-9635465,Reactome,1554,6448
+Suppression Of Phagosomal Maturation R-HSA-9637687,Reactome,1555,6449
+Surfactant Metabolism R-HSA-5683826,Reactome,1556,6450
+Switching Of Origins To A Post-Replicative State R-HSA-69052,Reactome,1557,6451
+Synaptic Adhesion-Like Molecules R-HSA-8849932,Reactome,1558,6452
+Syndecan Interactions R-HSA-3000170,Reactome,1559,6453
+Synthesis Of (16-20)-Hydroxyeicosatetraenoic Acids (HETE) R-HSA-2142816,Reactome,1560,6454
+Synthesis Of 12-Eicosatetraenoic Acid Derivatives R-HSA-2142712,Reactome,1561,6455
+Synthesis Of 15-Eicosatetraenoic Acid Derivatives R-HSA-2142770,Reactome,1562,6456
+Synthesis Of 5-Eicosatetraenoic Acids R-HSA-2142688,Reactome,1563,6457
+Synthesis Of DNA R-HSA-69239,Reactome,1564,6458
+Synthesis Of Dolichyl-phosphate R-HSA-446199,Reactome,1565,6459
+Synthesis Of GDP-mannose R-HSA-446205,Reactome,1566,6460
+"Synthesis Of IP2, IP, And Ins In Cytosol R-HSA-1855183",Reactome,1567,6461
+Synthesis Of IP3 And IP4 In Cytosol R-HSA-1855204,Reactome,1568,6462
+Synthesis Of Ketone Bodies R-HSA-77111,Reactome,1569,6463
+Synthesis Of Leukotrienes (LT) And Eoxins (EX) R-HSA-2142691,Reactome,1570,6464
+Synthesis Of Lipoxins (LX) R-HSA-2142700,Reactome,1571,6465
+Synthesis Of PA R-HSA-1483166,Reactome,1572,6466
+Synthesis Of PC R-HSA-1483191,Reactome,1573,6467
+Synthesis Of PE R-HSA-1483213,Reactome,1574,6468
+Synthesis Of PG R-HSA-1483148,Reactome,1575,6469
+Synthesis Of PI R-HSA-1483226,Reactome,1576,6470
+Synthesis Of PIPs At ER Membrane R-HSA-1483248,Reactome,1577,6471
+Synthesis Of PIPs At Golgi Membrane R-HSA-1660514,Reactome,1578,6472
+Synthesis Of PIPs At Early Endosome Membrane R-HSA-1660516,Reactome,1579,6473
+Synthesis Of PIPs At Late Endosome Membrane R-HSA-1660517,Reactome,1580,6474
+Synthesis Of PIPs At Plasma Membrane R-HSA-1660499,Reactome,1581,6475
+Synthesis Of Prostaglandins (PG) And Thromboxanes (TX) R-HSA-2162123,Reactome,1582,6476
+Synthesis Of UDP-N-acetyl-glucosamine R-HSA-446210,Reactome,1583,6477
+Synthesis Of Active Ubiquitin: Roles Of E1 And E2 Enzymes R-HSA-8866652,Reactome,1584,6478
+Synthesis Of Bile Acids And Bile Salts R-HSA-192105,Reactome,1585,6479
+Synthesis Of Bile Acids And Bile Salts Via 24-Hydroxycholesterol R-HSA-193775,Reactome,1586,6480
+Synthesis Of Bile Acids And Bile Salts Via 27-Hydroxycholesterol R-HSA-193807,Reactome,1587,6481
+Synthesis Of Bile Acids And Bile Salts Via 7Alpha-Hydroxycholesterol R-HSA-193368,Reactome,1588,6482
+Synthesis Of diphthamide-EEF2 R-HSA-5358493,Reactome,1589,6483
+Synthesis Of Glycosylphosphatidylinositol (GPI) R-HSA-162710,Reactome,1591,6484
+Synthesis Of Pyrophosphates In Cytosol R-HSA-1855167,Reactome,1592,6485
+Synthesis Of Substrates In N-glycan Biosythesis R-HSA-446219,Reactome,1593,6486
+Synthesis Of Very Long-Chain Fatty acyl-CoAs R-HSA-75876,Reactome,1594,6487
+Synthesis Of Wybutosine At G37 Of tRNA(Phe) R-HSA-6782861,Reactome,1595,6488
+"Synthesis, Secretion, And Deacylation Of Ghrelin R-HSA-422085",Reactome,1596,6489
+"Synthesis, Secretion, And Inactivation Of Glucagon-like Peptide-1 (GLP-1) R-HSA-381771",Reactome,1597,6490
+"Synthesis, Secretion, And Inactivation Of Glucose-dependent Insulinotropic Polypeptide (GIP) R-HSA-400511",Reactome,1598,6491
+TAK1-dependent IKK And NF-kappa-B Activation R-HSA-445989,Reactome,1599,6492
+TBC/RABGAPs R-HSA-8854214,Reactome,1600,6493
+TCF Dependent Signaling In Response To WNT R-HSA-201681,Reactome,1601,6494
+TCR Signaling R-HSA-202403,Reactome,1602,6495
+TFAP2 (AP-2) Family Regulates Transcription Of Cell Cycle Factors R-HSA-8866911,Reactome,1603,6496
+TFAP2 (AP-2) Family Regulates Transcription Of Growth Factors And Their Receptors R-HSA-8866910,Reactome,1604,6497
+TFAP2A Acts As A Transcriptional Repressor During Retinoic Acid Induced Cell Differentiation R-HSA-8869496,Reactome,1605,6498
+TGF-beta Receptor Signaling Activates SMADs R-HSA-2173789,Reactome,1606,6499
+TGF-beta Receptor Signaling In EMT (Epithelial To Mesenchymal Transition) R-HSA-2173791,Reactome,1607,6500
+"TICAM1, RIP1-mediated IKK Complex Recruitment R-HSA-168927",Reactome,1608,6501
+"TICAM1,TRAF6-dependent Induction Of TAK1 Complex R-HSA-9014325",Reactome,1609,6502
+TLR3-mediated TICAM1-dependent Programmed Cell Death R-HSA-9013957,Reactome,1611,6503
+TNF Receptor Superfamily (TNFSF) Members Mediating Non-Canonical NF-kB Pathway R-HSA-5676594,Reactome,1612,6504
+TNF Signaling R-HSA-75893,Reactome,1613,6505
+TNFR1-induced NFkappaB Signaling Pathway R-HSA-5357956,Reactome,1614,6506
+TNFR1-induced Proapoptotic Signaling R-HSA-5357786,Reactome,1615,6507
+TNFR2 Non-Canonical NF-kB Pathway R-HSA-5668541,Reactome,1617,6508
+TNFs Bind Their Physiological Receptors R-HSA-5669034,Reactome,1618,6509
+TP53 Regulates Metabolic Genes R-HSA-5628897,Reactome,1619,6510
+TP53 Regulates Transcription Of Caspase Activators And Caspases R-HSA-6803207,Reactome,1620,6511
+TP53 Regulates Transcription Of Cell Cycle Genes R-HSA-6791312,Reactome,1621,6512
+TP53 Regulates Transcription Of Cell Death Genes R-HSA-5633008,Reactome,1622,6513
+TP53 Regulates Transcription Of DNA Repair Genes R-HSA-6796648,Reactome,1623,6514
+TP53 Regulates Transcription Of Death Receptors And Ligands R-HSA-6803211,Reactome,1624,6515
+TP53 Regulates Transcription Of Genes Involved In Cytochrome C Release R-HSA-6803204,Reactome,1625,6516
+TP53 Regulates Transcription Of Genes Involved In G1 Cell Cycle Arrest R-HSA-6804116,Reactome,1626,6517
+TP53 Regulates Transcription Of Genes Involved In G2 Cell Cycle Arrest R-HSA-6804114,Reactome,1627,6518
+TP53 Regulates Transcription Of Additional Cell Cycle Genes With Uncertain Roles In P53 Pathway R-HSA-6804115,Reactome,1628,6519
+TP53 Regulates Transcription Of Additional Cell Death Genes With Uncertain Roles In P53-Dependent Apoptosis R-HSA-6803205,Reactome,1629,6520
+TRAF3-dependent IRF Activation Pathway R-HSA-918233,Reactome,1630,6521
+TRAF6 Mediated IRF7 Activation R-HSA-933541,Reactome,1631,6522
+TRAF6 Mediated IRF7 Activation In TLR7/8 Or 9 Signaling R-HSA-975110,Reactome,1632,6523
+TRAF6 Mediated NF-kB Activation R-HSA-933542,Reactome,1633,6524
+TRAF6 Mediated Induction Of NFkB And MAP Kinases Upon TLR7/8 Or 9 Activation R-HSA-975138,Reactome,1634,6525
+TRAF6-mediated Induction Of TAK1 Complex Within TLR4 Complex R-HSA-937072,Reactome,1635,6526
+TRAIL Signaling R-HSA-75158,Reactome,1636,6527
+TRIF-mediated Programmed Cell Death R-HSA-2562578,Reactome,1637,6528
+TRP Channels R-HSA-3295583,Reactome,1638,6529
+TYSND1 Cleaves Peroxisomal Proteins R-HSA-9033500,Reactome,1639,6530
+Tachykinin Receptors Bind Tachykinins R-HSA-380095,Reactome,1640,6531
+Tandem Pore Domain Potassium Channels R-HSA-1296346,Reactome,1641,6532
+Telomere C-strand (Lagging Strand) Synthesis R-HSA-174417,Reactome,1642,6533
+Telomere C-strand Synthesis Initiation R-HSA-174430,Reactome,1643,6534
+Telomere Extension By Telomerase R-HSA-171319,Reactome,1644,6535
+Telomere Maintenance R-HSA-157579,Reactome,1645,6536
+Terminal Pathway Of Complement R-HSA-166665,Reactome,1646,6537
+Termination Of O-glycan Biosynthesis R-HSA-977068,Reactome,1647,6538
+Termination Of Translesion DNA Synthesis R-HSA-5656169,Reactome,1648,6539
+"Tetrahydrobiopterin (BH4) Synthesis, Recycling, Salvage And Regulation R-HSA-1474151",Reactome,1649,6540
+NLRP3 Inflammasome R-HSA-844456,Reactome,1650,6541
+Activation Of Arylsulfatases R-HSA-1663150,Reactome,1651,6542
+Canonical Retinoid Cycle In Rods (Twilight Vision) R-HSA-2453902,Reactome,1652,6543
+Citric Acid (TCA) Cycle And Respiratory Electron Transport R-HSA-1428517,Reactome,1653,6544
+Fatty Acid Cycling Model R-HSA-167826,Reactome,1654,6545
+Phototransduction Cascade R-HSA-2514856,Reactome,1655,6546
+Role Of GTSE1 In G2/M Progression After G2 Checkpoint R-HSA-8852276,Reactome,1657,6547
+Role Of Nef In HIV-1 Replication And Disease Pathogenesis R-HSA-164952,Reactome,1658,6548
+Thrombin Signaling Thru Proteinase Activated Receptors (PARs) R-HSA-456926,Reactome,1659,6549
+Thromboxane Signaling Thru TP Receptor R-HSA-428930,Reactome,1660,6550
+Thyroxine Biosynthesis R-HSA-209968,Reactome,1661,6551
+Tie2 Signaling R-HSA-210993,Reactome,1662,6552
+Tight Junction Interactions R-HSA-420029,Reactome,1663,6553
+Toll Like Receptor 3 (TLR3) Cascade R-HSA-168164,Reactome,1664,6554
+Toll Like Receptor 4 (TLR4) Cascade R-HSA-166016,Reactome,1665,6555
+Toll Like Receptor 7/8 (TLR7/8) Cascade R-HSA-168181,Reactome,1666,6556
+Toll Like Receptor 9 (TLR9) Cascade R-HSA-168138,Reactome,1667,6557
+Toll-like Receptor Cascades R-HSA-168898,Reactome,1668,6558
+Toxicity Of Botulinum Toxin Type D (botD) R-HSA-5250955,Reactome,1669,6559
+Toxicity Of Botulinum Toxin Type F (botF) R-HSA-5250981,Reactome,1670,6560
+Trafficking And Processing Of Endosomal TLR R-HSA-1679131,Reactome,1671,6561
+Trafficking Of GluR2-containing AMPA Receptors R-HSA-416993,Reactome,1672,6562
+Transcription Of E2F Targets Under Negative Control By DREAM Complex R-HSA-1362277,Reactome,1673,6563
+Transcription Of E2F Targets Under Negative Control By P107 (RBL1) And P130 (RBL2) In Complex With HDAC1 R-HSA-1362300,Reactome,1674,6564
+Transcription Of HIV Genome R-HSA-167172,Reactome,1675,6565
+Transcription-Coupled Nucleotide Excision Repair (TC-NER) R-HSA-6781827,Reactome,1676,6566
+Transcriptional Regulation By E2F6 R-HSA-8953750,Reactome,1677,6567
+Transcriptional Regulation By MECP2 R-HSA-8986944,Reactome,1678,6568
+Transcriptional Regulation By TP53 R-HSA-3700989,Reactome,1679,6569
+Transcriptional Regulation By VENTX R-HSA-8853884,Reactome,1680,6570
+Transcriptional Activation Of Mitochondrial Biogenesis R-HSA-2151201,Reactome,1681,6571
+Transcriptional Activity Of SMAD2/SMAD3:SMAD4 Heterotrimer R-HSA-2173793,Reactome,1682,6572
+Transcriptional Regulation By RUNX1 R-HSA-8878171,Reactome,1683,6573
+Transcriptional Regulation By RUNX2 R-HSA-8878166,Reactome,1684,6574
+Transcriptional Regulation By RUNX3 R-HSA-8878159,Reactome,1685,6575
+Transcriptional Regulation By Small RNAs R-HSA-5578749,Reactome,1686,6576
+Transcriptional Regulation By AP-2 (TFAP2) Family Of Transcription Factors R-HSA-8864260,Reactome,1687,6577
+Transcriptional Regulation Of Granulopoiesis R-HSA-9616222,Reactome,1688,6578
+Transcriptional Regulation Of Pluripotent Stem Cells R-HSA-452723,Reactome,1689,6579
+Transcriptional Regulation Of Testis Differentiation R-HSA-9690406,Reactome,1690,6580
+Transcriptional Regulation Of White Adipocyte Differentiation R-HSA-381340,Reactome,1691,6581
+Transferrin Endocytosis And Recycling R-HSA-917977,Reactome,1692,6582
+Translation R-HSA-72766,Reactome,1693,6583
+Translation Initiation Complex Formation R-HSA-72649,Reactome,1694,6584
+Translation Of Replicase And Assembly Of Replication Transcription Complex R-HSA-9679504,Reactome,1695,6585
+Translation Of Structural Proteins R-HSA-9683701,Reactome,1696,6586
+Translesion Synthesis By POLH R-HSA-110320,Reactome,1697,6587
+Translesion Synthesis By POLI R-HSA-5656121,Reactome,1698,6588
+Translesion Synthesis By POLK R-HSA-5655862,Reactome,1699,6589
+Translesion Synthesis By REV1 R-HSA-110312,Reactome,1700,6590
+Translesion Synthesis By Y Family DNA Polymerases Bypasses Lesions On DNA Template R-HSA-110313,Reactome,1701,6591
+Translocation Of SLC2A4 (GLUT4) To Plasma Membrane R-HSA-1445148,Reactome,1702,6592
+Translocation Of ZAP-70 To Immunological Synapse R-HSA-202430,Reactome,1703,6593
+Transmission Across Chemical Synapses R-HSA-112315,Reactome,1704,6594
+Transport Of Mature Transcript To Cytoplasm R-HSA-72202,Reactome,1706,6595
+Transport Of Mature mRNA Derived From An Intronless Transcript R-HSA-159231,Reactome,1707,6596
+Transport Of Mature mRNA Derived From An Intron-Containing Transcript R-HSA-159236,Reactome,1708,6597
+Transport Of Mature mRNAs Derived From Intronless Transcripts R-HSA-159234,Reactome,1709,6598
+Transport Of RCbl Within Body R-HSA-9758890,Reactome,1710,6599
+Transport Of Ribonucleoproteins Into Host Nucleus R-HSA-168271,Reactome,1711,6600
+"Transport Of Bile Salts And Organic Acids, Metal Ions And Amine Compounds R-HSA-425366",Reactome,1712,6601
+Transport Of Fatty Acids R-HSA-804914,Reactome,1713,6602
+Transport Of Gamma-Carboxylated Protein Precursors From Endoplasmic Reticulum To Golgi Apparatus R-HSA-159763,Reactome,1714,6603
+Transport Of Inorganic Cations/Anions And Amino Acids/Oligopeptides R-HSA-425393,Reactome,1715,6604
+Transport Of Nucleosides And Free Purine And Pyrimidine Bases Across Plasma Membrane R-HSA-83936,Reactome,1716,6605
+Transport Of Nucleotide Sugars R-HSA-727802,Reactome,1717,6606
+Transport Of Organic Anions R-HSA-879518,Reactome,1718,6607
+Transport Of Small Molecules R-HSA-382551,Reactome,1719,6608
+Transport Of SLBP Dependant Mature mRNA R-HSA-159230,Reactome,1720,6609
+Transport Of SLBP Independent Mature mRNA R-HSA-159227,Reactome,1721,6610
+"Transport Of Vitamins, Nucleosides, And Related Molecules R-HSA-425397",Reactome,1722,6611
+Transport To Golgi And Subsequent Modification R-HSA-948021,Reactome,1723,6612
+Triglyceride Biosynthesis R-HSA-75109,Reactome,1724,6613
+Triglyceride Catabolism R-HSA-163560,Reactome,1725,6614
+Triglyceride Metabolism R-HSA-8979227,Reactome,1726,6615
+"Tristetraprolin (TTP, ZFP36) Binds And Destabilizes mRNA R-HSA-450513",Reactome,1727,6616
+Tryptophan Catabolism R-HSA-71240,Reactome,1728,6617
+Type I Hemidesmosome Assembly R-HSA-446107,Reactome,1729,6618
+Tyrosine Catabolism R-HSA-8963684,Reactome,1730,6619
+UCH Proteinases R-HSA-5689603,Reactome,1731,6620
+Ub-specific Processing Proteases R-HSA-5689880,Reactome,1732,6621
+Ubiquinol Biosynthesis R-HSA-2142789,Reactome,1733,6622
+Ubiquitin Mediated Degradation Of Phosphorylated Cdc25A R-HSA-69601,Reactome,1734,6623
+Ubiquitin-dependent Degradation Of Cyclin D R-HSA-75815,Reactome,1735,6624
+"Unblocking Of NMDA Receptors, Glutamate Binding And Activation R-HSA-438066",Reactome,1736,6625
+Unfolded Protein Response (UPR) R-HSA-381119,Reactome,1737,6626
+Unwinding Of DNA R-HSA-176974,Reactome,1738,6627
+Uptake And Actions Of Bacterial Toxins R-HSA-5339562,Reactome,1739,6628
+Uptake And Function Of Anthrax Toxins R-HSA-5210891,Reactome,1740,6629
+Uptake And Function Of Diphtheria Toxin R-HSA-5336415,Reactome,1741,6630
+Uptake Of Dietary Cobalamins Into Enterocytes R-HSA-9758881,Reactome,1742,6631
+Urea Cycle R-HSA-70635,Reactome,1743,6632
+VEGF Binds To VEGFR Leading To Receptor Dimerization R-HSA-195399,Reactome,1744,6633
+VEGFA-VEGFR2 Pathway R-HSA-4420097,Reactome,1745,6634
+VEGFR2 Mediated Cell Proliferation R-HSA-5218921,Reactome,1746,6635
+VEGFR2 Mediated Vascular Permeability R-HSA-5218920,Reactome,1747,6636
+VLDL Clearance R-HSA-8964046,Reactome,1748,6637
+VLDLR Internalisation And Degradation R-HSA-8866427,Reactome,1749,6638
+Vasopressin Regulates Renal Water Homeostasis Via Aquaporins R-HSA-432040,Reactome,1750,6639
+Vasopressin-like Receptors R-HSA-388479,Reactome,1751,6640
+Vesicle-mediated Transport R-HSA-5653656,Reactome,1752,6641
+Vif-mediated Degradation Of APOBEC3G R-HSA-180585,Reactome,1753,6642
+Viral Messenger RNA Synthesis R-HSA-168325,Reactome,1754,6643
+Viral mRNA Translation R-HSA-192823,Reactome,1755,6644
+Virus Assembly And Release R-HSA-168268,Reactome,1756,6645
+Visual Phototransduction R-HSA-2187338,Reactome,1757,6646
+Vitamin B1 (Thiamin) Metabolism R-HSA-196819,Reactome,1758,6647
+Vitamin B2 (Riboflavin) Metabolism R-HSA-196843,Reactome,1759,6648
+Vitamin B5 (Pantothenate) Metabolism R-HSA-199220,Reactome,1760,6649
+Vitamin C (Ascorbate) Metabolism R-HSA-196836,Reactome,1761,6650
+Vitamin D (Calciferol) Metabolism R-HSA-196791,Reactome,1762,6651
+Vitamins R-HSA-211916,Reactome,1763,6652
+Voltage Gated Potassium Channels R-HSA-1296072,Reactome,1764,6653
+Vpr-mediated Nuclear Import Of PICs R-HSA-180910,Reactome,1765,6654
+Vpu Mediated Degradation Of CD4 R-HSA-180534,Reactome,1766,6655
+VxPx Cargo-Targeting To Cilium R-HSA-5620916,Reactome,1767,6656
+WNT Ligand Biogenesis And Trafficking R-HSA-3238698,Reactome,1768,6657
+WNT Mediated Activation Of DVL R-HSA-201688,Reactome,1769,6658
+"WNT5A-dependent Internalization Of FZD2, FZD5 And ROR2 R-HSA-5140745",Reactome,1770,6659
+WNT5A-dependent Internalization Of FZD4 R-HSA-5099900,Reactome,1771,6660
+Wax And Plasmalogen Biosynthesis R-HSA-8848584,Reactome,1772,6661
+XBP1(S) Activates Chaperone Genes R-HSA-381038,Reactome,1773,6662
+Xenobiotics R-HSA-211981,Reactome,1774,6663
+YAP1- And WWTR1 (TAZ)-stimulated Gene Expression R-HSA-2032785,Reactome,1775,6664
+ZBP1(DAI) Mediated Induction Of Type I IFNs R-HSA-1606322,Reactome,1776,6665
+Zinc Efflux And Compartmentalization By SLC30 Family R-HSA-435368,Reactome,1777,6666
+Zinc Influx Into Cells By SLC39 Gene Family R-HSA-442380,Reactome,1778,6667
+Zinc Transporters R-HSA-435354,Reactome,1779,6668
+Activated TAK1 Mediates P38 MAPK Activation R-HSA-450302,Reactome,1780,6669
+Alpha-Linolenic (Omega3) And Linoleic (Omega6) Acid Metabolism R-HSA-2046104,Reactome,1781,6670
+cGMP Effects R-HSA-418457,Reactome,1782,6671
+eNOS Activation R-HSA-203615,Reactome,1783,6672
+mRNA 3-End Processing R-HSA-72187,Reactome,1784,6673
+mRNA Capping R-HSA-72086,Reactome,1785,6674
+mRNA Editing R-HSA-75072,Reactome,1786,6675
+mRNA Splicing - Major Pathway R-HSA-72163,Reactome,1787,6676
+mRNA Splicing - Minor Pathway R-HSA-72165,Reactome,1788,6677
+mRNA Splicing R-HSA-72172,Reactome,1789,6678
+mRNA Decay By 3 To 5 Exoribonuclease R-HSA-429958,Reactome,1790,6679
+mRNA Decay By 5 To 3 Exoribonuclease R-HSA-430039,Reactome,1791,6680
+mTORC1-mediated Signaling R-HSA-166208,Reactome,1792,6681
+Mitochondrial Fatty Acid Beta-Oxidation Of Saturated Fatty Acids R-HSA-77286,Reactome,1793,6682
+Mitochondrial Fatty Acid Beta-Oxidation Of Unsaturated Fatty Acids R-HSA-77288,Reactome,1794,6683
+p130Cas Linkage To MAPK Signaling For Integrins R-HSA-372708,Reactome,1795,6684
+p38MAPK Events R-HSA-171007,Reactome,1796,6685
+p53-Dependent G1 DNA Damage Response R-HSA-69563,Reactome,1797,6686
+P75 NTR Receptor-Mediated Signaling R-HSA-193704,Reactome,1798,6687
+p75NTR Negatively Regulates Cell Cycle Via SC1 R-HSA-193670,Reactome,1799,6688
+p75NTR Recruits Signaling Complexes R-HSA-209543,Reactome,1800,6689
+p75NTR Regulates Axonogenesis R-HSA-193697,Reactome,1801,6690
+p75NTR Signals Via NF-kB R-HSA-193639,Reactome,1802,6691
+rRNA Modification In Mitochondrion R-HSA-6793080,Reactome,1803,6692
+rRNA Modification In Nucleus And Cytosol R-HSA-6790901,Reactome,1804,6693
+rRNA Processing R-HSA-72312,Reactome,1805,6694
+rRNA Processing In Mitochondrion R-HSA-8868766,Reactome,1806,6695
+rRNA Processing In Nucleus And Cytosol R-HSA-8868773,Reactome,1807,6696
+tRNA Aminoacylation R-HSA-379724,Reactome,1808,6697
+tRNA Modification In Mitochondrion R-HSA-6787450,Reactome,1809,6698
+tRNA Modification In Nucleus And Cytosol R-HSA-6782315,Reactome,1810,6699
+tRNA Processing R-HSA-72306,Reactome,1811,6700
+tRNA Processing In Mitochondrion R-HSA-6785470,Reactome,1812,6701
+tRNA Processing In Nucleus R-HSA-6784531,Reactome,1813,6702
+trans-Golgi Network Vesicle Budding R-HSA-199992,Reactome,1814,6703
+vRNP Assembly R-HSA-192905,Reactome,1815,6704
+ABC transporters,KEGG,1816,6705
+AGE-RAGE signaling pathway in diabetic complications,KEGG,1817,6706
+AMPK signaling pathway,KEGG,1818,6707
+Acute myeloid leukemia,KEGG,1819,6708
+Adherens junction,KEGG,1820,6709
+Adipocytokine signaling pathway,KEGG,1821,6710
+Adrenergic signaling in cardiomyocytes,KEGG,1822,6711
+African trypanosomiasis,KEGG,1823,6712
+"Alanine, aspartate and glutamate metabolism",KEGG,1824,6713
+Alcoholism,KEGG,1825,6714
+Aldosterone synthesis and secretion,KEGG,1826,6715
+Aldosterone-regulated sodium reabsorption,KEGG,1827,6716
+Allograft rejection,KEGG,1828,6717
+Alzheimer disease,KEGG,1829,6718
+Amino sugar and nucleotide sugar metabolism,KEGG,1830,6719
+Aminoacyl-tRNA biosynthesis,KEGG,1831,6720
+Amoebiasis,KEGG,1832,6721
+Amphetamine addiction,KEGG,1833,6722
+Amyotrophic lateral sclerosis (ALS),KEGG,1834,6723
+Antigen processing and presentation,KEGG,1835,6724
+Apelin signaling pathway,KEGG,1836,6725
+Apoptosis,KEGG,1837,6726
+Arachidonic acid metabolism,KEGG,1838,6727
+Arginine and proline metabolism,KEGG,1839,6728
+Arginine biosynthesis,KEGG,1840,6729
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,1841,6730
+Ascorbate and aldarate metabolism,KEGG,1842,6731
+Asthma,KEGG,1843,6732
+Autoimmune thyroid disease,KEGG,1844,6733
+Autophagy,KEGG,1845,6734
+Axon guidance,KEGG,1846,6735
+B cell receptor signaling pathway,KEGG,1847,6736
+Bacterial invasion of epithelial cells,KEGG,1848,6737
+Basal cell carcinoma,KEGG,1849,6738
+Basal transcription factors,KEGG,1850,6739
+Base excision repair,KEGG,1851,6740
+Bile secretion,KEGG,1852,6741
+Biosynthesis of unsaturated fatty acids,KEGG,1853,6742
+Bladder cancer,KEGG,1854,6743
+Breast cancer,KEGG,1855,6744
+Butanoate metabolism,KEGG,1856,6745
+C-type lectin receptor signaling pathway,KEGG,1857,6746
+Calcium signaling pathway,KEGG,1859,6747
+Carbohydrate digestion and absorption,KEGG,1860,6748
+Cardiac muscle contraction,KEGG,1861,6749
+Cell adhesion molecules (CAMs),KEGG,1862,6750
+Cell cycle,KEGG,1863,6751
+Cellular senescence,KEGG,1864,6752
+Central carbon metabolism in cancer,KEGG,1865,6753
+Chagas disease (American trypanosomiasis),KEGG,1866,6754
+Chemical carcinogenesis,KEGG,1867,6755
+Chemokine signaling pathway,KEGG,1868,6756
+Cholesterol metabolism,KEGG,1869,6757
+Choline metabolism in cancer,KEGG,1870,6758
+Cholinergic synapse,KEGG,1871,6759
+Chronic myeloid leukemia,KEGG,1872,6760
+Circadian entrainment,KEGG,1873,6761
+Circadian rhythm,KEGG,1874,6762
+Citrate cycle (TCA cycle),KEGG,1875,6763
+Cocaine addiction,KEGG,1876,6764
+Collecting duct acid secretion,KEGG,1877,6765
+Colorectal cancer,KEGG,1878,6766
+Complement and coagulation cascades,KEGG,1879,6767
+Cortisol synthesis and secretion,KEGG,1880,6768
+Cushing syndrome,KEGG,1881,6769
+Cysteine and methionine metabolism,KEGG,1882,6770
+Cytokine-cytokine receptor interaction,KEGG,1883,6771
+Cytosolic DNA-sensing pathway,KEGG,1884,6772
+D-Glutamine and D-glutamate metabolism,KEGG,1885,6773
+DNA replication,KEGG,1886,6774
+Dilated cardiomyopathy (DCM),KEGG,1887,6775
+Dopaminergic synapse,KEGG,1888,6776
+Drug metabolism,KEGG,1889,6777
+ECM-receptor interaction,KEGG,1890,6778
+Endocrine and other factor-regulated calcium reabsorption,KEGG,1891,6779
+Endocytosis,KEGG,1892,6780
+Endometrial cancer,KEGG,1893,6781
+Epithelial cell signaling in Helicobacter pylori infection,KEGG,1894,6782
+Epstein-Barr virus infection,KEGG,1895,6783
+ErbB signaling pathway,KEGG,1896,6784
+Estrogen signaling pathway,KEGG,1897,6785
+Ether lipid metabolism,KEGG,1898,6786
+Fanconi anemia pathway,KEGG,1899,6787
+Fat digestion and absorption,KEGG,1900,6788
+Fatty acid biosynthesis,KEGG,1901,6789
+Fatty acid degradation,KEGG,1902,6790
+Fatty acid elongation,KEGG,1903,6791
+Fc epsilon RI signaling pathway,KEGG,1904,6792
+Fc gamma R-mediated phagocytosis,KEGG,1905,6793
+Ferroptosis,KEGG,1906,6794
+Fluid shear stress and atherosclerosis,KEGG,1907,6795
+Focal adhesion,KEGG,1908,6796
+Folate biosynthesis,KEGG,1909,6797
+FoxO signaling pathway,KEGG,1910,6798
+Fructose and mannose metabolism,KEGG,1911,6799
+GABAergic synapse,KEGG,1912,6800
+Galactose metabolism,KEGG,1913,6801
+Gap junction,KEGG,1914,6802
+Gastric acid secretion,KEGG,1915,6803
+Gastric cancer,KEGG,1916,6804
+Glioma,KEGG,1917,6805
+Glucagon signaling pathway,KEGG,1918,6806
+Glutamatergic synapse,KEGG,1919,6807
+Glutathione metabolism,KEGG,1920,6808
+Glycerolipid metabolism,KEGG,1921,6809
+Glycerophospholipid metabolism,KEGG,1922,6810
+"Glycine, serine and threonine metabolism",KEGG,1923,6811
+Glycolysis / Gluconeogenesis,KEGG,1924,6812
+Glycosaminoglycan biosynthesis,KEGG,1925,6813
+Glycosaminoglycan degradation,KEGG,1926,6814
+Glycosphingolipid biosynthesis,KEGG,1927,6815
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,KEGG,1928,6816
+Glyoxylate and dicarboxylate metabolism,KEGG,1929,6817
+GnRH signaling pathway,KEGG,1930,6818
+Graft-versus-host disease,KEGG,1931,6819
+HIF-1 signaling pathway,KEGG,1932,6820
+Hedgehog signaling pathway,KEGG,1933,6821
+Hematopoietic cell lineage,KEGG,1934,6822
+Hepatitis B,KEGG,1935,6823
+Hepatitis C,KEGG,1936,6824
+Hepatocellular carcinoma,KEGG,1937,6825
+Herpes simplex virus 1 infection,KEGG,1938,6826
+Hippo signaling pathway,KEGG,1939,6827
+Histidine metabolism,KEGG,1940,6828
+Homologous recombination,KEGG,1941,6829
+Human T-cell leukemia virus 1 infection,KEGG,1942,6830
+Human cytomegalovirus infection,KEGG,1943,6831
+Human immunodeficiency virus 1 infection,KEGG,1944,6832
+Human papillomavirus infection,KEGG,1945,6833
+Huntington disease,KEGG,1946,6834
+Hypertrophic cardiomyopathy (HCM),KEGG,1947,6835
+IL-17 signaling pathway,KEGG,1948,6836
+Inflammatory bowel disease (IBD),KEGG,1949,6837
+Inflammatory mediator regulation of TRP channels,KEGG,1950,6838
+Influenza A,KEGG,1951,6839
+Inositol phosphate metabolism,KEGG,1952,6840
+Insulin resistance,KEGG,1953,6841
+Insulin secretion,KEGG,1954,6842
+Insulin signaling pathway,KEGG,1955,6843
+Intestinal immune network for IgA production,KEGG,1956,6844
+JAK-STAT signaling pathway,KEGG,1957,6845
+Kaposi sarcoma-associated herpesvirus infection,KEGG,1958,6846
+Legionellosis,KEGG,1959,6847
+Leishmaniasis,KEGG,1960,6848
+Leukocyte transendothelial migration,KEGG,1961,6849
+Linoleic acid metabolism,KEGG,1962,6850
+Long-term depression,KEGG,1963,6851
+Long-term potentiation,KEGG,1964,6852
+Longevity regulating pathway,KEGG,1965,6853
+Lysine degradation,KEGG,1966,6854
+Lysosome,KEGG,1967,6855
+MAPK signaling pathway,KEGG,1968,6856
+Malaria,KEGG,1969,6857
+Mannose type O-glycan biosynthesis,KEGG,1970,6858
+Maturity onset diabetes of the young,KEGG,1971,6859
+Measles,KEGG,1972,6860
+Melanogenesis,KEGG,1973,6861
+Melanoma,KEGG,1974,6862
+Metabolism of xenobiotics by cytochrome P450,KEGG,1975,6863
+MicroRNAs in cancer,KEGG,1976,6864
+Mineral absorption,KEGG,1977,6865
+Mismatch repair,KEGG,1978,6866
+Mitophagy,KEGG,1979,6867
+Morphine addiction,KEGG,1980,6868
+Mucin type O-glycan biosynthesis,KEGG,1981,6869
+N-Glycan biosynthesis,KEGG,1982,6870
+NF-kappa B signaling pathway,KEGG,1983,6871
+NOD-like receptor signaling pathway,KEGG,1984,6872
+Natural killer cell mediated cytotoxicity,KEGG,1985,6873
+Necroptosis,KEGG,1986,6874
+Neuroactive ligand-receptor interaction,KEGG,1988,6875
+Neurotrophin signaling pathway,KEGG,1989,6876
+Nicotinate and nicotinamide metabolism,KEGG,1990,6877
+Nicotine addiction,KEGG,1991,6878
+Nitrogen metabolism,KEGG,1992,6879
+Non-alcoholic fatty liver disease (NAFLD),KEGG,1993,6880
+Non-homologous end-joining,KEGG,1994,6881
+Non-small cell lung cancer,KEGG,1995,6882
+Notch signaling pathway,KEGG,1996,6883
+Nucleotide excision repair,KEGG,1997,6884
+Olfactory transduction,KEGG,1998,6885
+One carbon pool by folate,KEGG,1999,6886
+Oocyte meiosis,KEGG,2000,6887
+Osteoclast differentiation,KEGG,2001,6888
+Other glycan degradation,KEGG,2002,6889
+Other types of O-glycan biosynthesis,KEGG,2003,6890
+Ovarian steroidogenesis,KEGG,2004,6891
+Oxidative phosphorylation,KEGG,2005,6892
+Oxytocin signaling pathway,KEGG,2006,6893
+PI3K-Akt signaling pathway,KEGG,2007,6894
+PPAR signaling pathway,KEGG,2008,6895
+Pancreatic cancer,KEGG,2009,6896
+Pancreatic secretion,KEGG,2010,6897
+Pantothenate and CoA biosynthesis,KEGG,2011,6898
+"Parathyroid hormone synthesis, secretion and action",KEGG,2012,6899
+Parkinson disease,KEGG,2013,6900
+Pathogenic Escherichia coli infection,KEGG,2014,6901
+Pathways in cancer,KEGG,2015,6902
+Pentose and glucuronate interconversions,KEGG,2016,6903
+Pentose phosphate pathway,KEGG,2017,6904
+Peroxisome,KEGG,2018,6905
+Pertussis,KEGG,2019,6906
+Phagosome,KEGG,2020,6907
+Phenylalanine metabolism,KEGG,2021,6908
+"Phenylalanine, tyrosine and tryptophan biosynthesis",KEGG,2022,6909
+Phosphatidylinositol signaling system,KEGG,2023,6910
+Phospholipase D signaling pathway,KEGG,2024,6911
+Phosphonate and phosphinate metabolism,KEGG,2025,6912
+Phototransduction,KEGG,2026,6913
+Platelet activation,KEGG,2027,6914
+Porphyrin and chlorophyll metabolism,KEGG,2028,6915
+Primary bile acid biosynthesis,KEGG,2029,6916
+Primary immunodeficiency,KEGG,2030,6917
+Prion diseases,KEGG,2031,6918
+Progesterone-mediated oocyte maturation,KEGG,2032,6919
+Prolactin signaling pathway,KEGG,2033,6920
+Propanoate metabolism,KEGG,2034,6921
+Prostate cancer,KEGG,2035,6922
+Proteasome,KEGG,2036,6923
+Protein digestion and absorption,KEGG,2037,6924
+Protein export,KEGG,2038,6925
+Protein processing in endoplasmic reticulum,KEGG,2039,6926
+Proteoglycans in cancer,KEGG,2040,6927
+Proximal tubule bicarbonate reclamation,KEGG,2041,6928
+Purine metabolism,KEGG,2042,6929
+Pyrimidine metabolism,KEGG,2043,6930
+Pyruvate metabolism,KEGG,2044,6931
+RIG-I-like receptor signaling pathway,KEGG,2045,6932
+RNA degradation,KEGG,2046,6933
+RNA polymerase,KEGG,2047,6934
+RNA transport,KEGG,2048,6935
+Rap1 signaling pathway,KEGG,2049,6936
+Ras signaling pathway,KEGG,2050,6937
+Regulation of actin cytoskeleton,KEGG,2051,6938
+Regulation of lipolysis in adipocytes,KEGG,2052,6939
+Relaxin signaling pathway,KEGG,2053,6940
+Renal cell carcinoma,KEGG,2054,6941
+Renin secretion,KEGG,2055,6942
+Renin-angiotensin system,KEGG,2056,6943
+Retinol metabolism,KEGG,2057,6944
+Retrograde endocannabinoid signaling,KEGG,2058,6945
+Rheumatoid arthritis,KEGG,2059,6946
+Riboflavin metabolism,KEGG,2060,6947
+Ribosome,KEGG,2061,6948
+Ribosome biogenesis in eukaryotes,KEGG,2062,6949
+SNARE interactions in vesicular transport,KEGG,2063,6950
+Salivary secretion,KEGG,2064,6951
+Salmonella infection,KEGG,2065,6952
+Selenocompound metabolism,KEGG,2066,6953
+Serotonergic synapse,KEGG,2067,6954
+Shigellosis,KEGG,2068,6955
+Signaling pathways regulating pluripotency of stem cells,KEGG,2069,6956
+Small cell lung cancer,KEGG,2070,6957
+Sphingolipid metabolism,KEGG,2071,6958
+Sphingolipid signaling pathway,KEGG,2072,6959
+Spliceosome,KEGG,2073,6960
+Staphylococcus aureus infection,KEGG,2074,6961
+Starch and sucrose metabolism,KEGG,2075,6962
+Steroid biosynthesis,KEGG,2076,6963
+Steroid hormone biosynthesis,KEGG,2077,6964
+Sulfur metabolism,KEGG,2078,6965
+Sulfur relay system,KEGG,2079,6966
+Synaptic vesicle cycle,KEGG,2080,6967
+Synthesis and degradation of ketone bodies,KEGG,2081,6968
+Systemic lupus erythematosus,KEGG,2082,6969
+T cell receptor signaling pathway,KEGG,2083,6970
+TGF-beta signaling pathway,KEGG,2084,6971
+TNF signaling pathway,KEGG,2085,6972
+Taste transduction,KEGG,2086,6973
+Taurine and hypotaurine metabolism,KEGG,2087,6974
+Terpenoid backbone biosynthesis,KEGG,2088,6975
+Th1 and Th2 cell differentiation,KEGG,2089,6976
+Th17 cell differentiation,KEGG,2090,6977
+Thermogenesis,KEGG,2091,6978
+Thiamine metabolism,KEGG,2092,6979
+Thyroid cancer,KEGG,2093,6980
+Thyroid hormone signaling pathway,KEGG,2094,6981
+Thyroid hormone synthesis,KEGG,2095,6982
+Tight junction,KEGG,2096,6983
+Toll-like receptor signaling pathway,KEGG,2097,6984
+Toxoplasmosis,KEGG,2098,6985
+Transcriptional misregulation in cancer,KEGG,2099,6986
+Tryptophan metabolism,KEGG,2100,6987
+Tuberculosis,KEGG,2101,6988
+Type I diabetes mellitus,KEGG,2102,6989
+Type II diabetes mellitus,KEGG,2103,6990
+Tyrosine metabolism,KEGG,2104,6991
+Ubiquinone and other terpenoid-quinone biosynthesis,KEGG,2105,6992
+Ubiquitin mediated proteolysis,KEGG,2106,6993
+VEGF signaling pathway,KEGG,2107,6994
+"Valine, leucine and isoleucine degradation",KEGG,2108,6995
+Vascular smooth muscle contraction,KEGG,2109,6996
+Vasopressin-regulated water reabsorption,KEGG,2110,6997
+Vibrio cholerae infection,KEGG,2111,6998
+Viral carcinogenesis,KEGG,2112,6999
+Viral myocarditis,KEGG,2113,7000
+Vitamin B6 metabolism,KEGG,2114,7001
+Vitamin digestion and absorption,KEGG,2115,7002
+Wnt signaling pathway,KEGG,2116,7003
+alpha-Linolenic acid metabolism,KEGG,2117,7004
+beta-Alanine metabolism,KEGG,2118,7005
+cAMP signaling pathway,KEGG,2119,7006
+cGMP-PKG signaling pathway,KEGG,2120,7007
+mRNA surveillance pathway,KEGG,2121,7008
+mTOR signaling pathway,KEGG,2122,7009
+p53 signaling pathway,KEGG,2123,7010

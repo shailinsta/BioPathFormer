@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Memory(MB)
+Metadata,2154,49,4.25
+Expression,1775,19221,260.71
+Mutation,3044,19584,455.53
+CRISPR,1208,18532,170.86
+GDSC,950,317,2.34

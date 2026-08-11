@@ -1,0 +1,5 @@
+Architecture Variant,RMSE (↓),R² (↑),Model Parameters,Performance Impact
+BioPathFormer (Full Architecture),0.12476404465550525,0.5626212954521179,1015233,Baseline
+w/o Pathway Embeddings,0.12079277628817382,0.5900218486785889,1015233,-3.18% Error Change
+w/o Prior Biological Graph,0.12079277628817382,0.5900218486785889,1015233,-3.18% Error Change
+w/o Transformer Encoder Stack,0.347401868785873,-2.3911190032958984,750273,+178.45% Error Change
