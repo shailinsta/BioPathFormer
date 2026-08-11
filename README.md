@@ -63,7 +63,7 @@ The proposed framework enhances predictive robustness while improving biological
 BioPathFormer/
 │
 ├── notebooks/
-│   └── BioPathFormer_PDAC_Pipeline.ipynb
+│   └──PDAC.ipynb
 │
 ├── datasets/
 │
