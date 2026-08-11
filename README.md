@@ -6,9 +6,9 @@
 
 ## Overview
 
-BioPathFormer is a **pathway-aware computational framework** for pharmacogenomic drug-response prediction and interpretable biomarker discovery in **Pancreatic Ductal Adenocarcinoma (PDAC)**.
+BioPathFormer is a pathway-aware computational framework for pharmacogenomic drug-response prediction and interpretable biomarker discovery in Pancreatic Ductal Adenocarcinoma (PDAC).
 
-The framework integrates biological pathway knowledge from **KEGG** and **Reactome**, multimodal Transformer representation learning, explainable artificial intelligence, Bayesian uncertainty modeling, and leakage-free validation within a unified computational pipeline.
+The framework integrates biological pathway knowledge from KEGG and Reactome, multimodal Transformer representation learning, explainable artificial intelligence, Bayesian uncertainty modeling, and leakage-free validation within a unified computational pipeline.
 
 Unlike conventional pharmacogenomic prediction methods that primarily optimize predictive accuracy, BioPathFormer incorporates biological interpretability, uncertainty quantification, and pathway-level reasoning to identify reliable biomarkers and improve prediction robustness for precision oncology.
 
@@ -26,7 +26,7 @@ A defining feature of the framework is the explicit integration of **genome-wide
 
 - **S.M**
 - **S.T**
-- **A.A**
+- **S.M**
 
 ---
 
@@ -34,7 +34,7 @@ A defining feature of the framework is the explicit integration of **genome-wide
 
 Pancreatic ductal adenocarcinoma (PDAC) exhibits substantial molecular heterogeneity, making robust biomarker discovery and drug-response prediction particularly challenging.
 
-BioPathFormer introduces a biologically informed computational framework that combines multimodal pharmacogenomic profiles — gene expression, somatic mutation and CRISPR dependency — with curated pathway knowledge, Transformer-based representation learning, SHAP explainability, Bayesian uncertainty estimation, and **strict cell-line-disjoint validation** within a unified analytical pipeline.
+BioPathFormer introduces a biologically informed computational framework that combines multimodal pharmacogenomic profiles — gene expression, somatic mutation and CRISPR dependency — with curated pathway knowledge, Transformer-based representation learning, SHAP explainability, Bayesian uncertainty estimation, and strict cell-line-disjoint validation within a unified analytical pipeline.
 
 The proposed framework enhances predictive robustness while improving biological interpretability through pathway-aware feature representations, confidence-aware biomarker prioritization, and biological pathway enrichment analysis. Evaluation is performed on cell lines never observed during training or model selection, providing an estimate of generalisation to unseen biological entities rather than to unseen drug–cell-line combinations. The implementation supports reproducible pharmacogenomic research and precision oncology applications.
 
@@ -43,11 +43,11 @@ The proposed framework enhances predictive robustness while improving biological
 ## Main Contributions
 
 - Disease-specific focus on PDAC rather than pan-cancer aggregation, removing tissue-of-origin as a dominant predictive shortcut.
-- Integration of **genome-wide CRISPR dependency scores** as a first-class modality alongside expression and mutation.
+- Integration of genome-wide CRISPR dependency scores as a first-class modality alongside expression and mutation.
 - Pathway-aware feature representation using KEGG and Reactome biological pathways.
 - Gene–pathway interaction graph construction for modeling higher-order biological relationships.
 - Transformer-based multimodal fusion with gated attention pooling.
-- **Strict cell-line-disjoint validation** to eliminate information leakage across partitions.
+- Strict cell-line-disjoint validation to eliminate information leakage across partitions.
 - SHAP-based explainable biomarker discovery.
 - Bayesian posterior stability estimation for confidence-aware biomarker ranking.
 - Multi-seed component ablation with automated validation gating.
