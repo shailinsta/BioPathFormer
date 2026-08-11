@@ -397,7 +397,7 @@ Their contributions have made this research possible.
 https://github.com/shailinsta/BioPathFormer
 
 **Dataset**
-https://huggingface.co/datasets/ShamsTahzib/PDAC
+https://huggingface.co/datasets/ShamsTahzib/PDAC_dataset
 
 **GitHub Profile**
 https://github.com/shailinsta
